@@ -1,0 +1,2001 @@
+rider_id,name,city,signup_date
+1,Rider_1,Manhattan,2022-11-26
+2,Rider_2,Queens,2022-10-10
+3,Rider_3,Manhattan,2023-05-14
+4,Rider_4,Brooklyn,2023-11-22
+5,Rider_5,Queens,2024-07-11
+6,Rider_6,Brooklyn,2022-08-15
+7,Rider_7,Queens,2023-12-31
+8,Rider_8,Staten Island,2024-10-01
+9,Rider_9,Bronx,2022-12-11
+10,Rider_10,Staten Island,2025-08-29
+11,Rider_11,Brooklyn,2023-05-13
+12,Rider_12,Bronx,2025-01-06
+13,Rider_13,Queens,2025-06-15
+14,Rider_14,Bronx,2022-12-31
+15,Rider_15,Manhattan,2023-12-25
+16,Rider_16,Bronx,2024-07-19
+17,Rider_17,Manhattan,2023-02-17
+18,Rider_18,Bronx,2024-05-30
+19,Rider_19,Manhattan,2023-03-10
+20,Rider_20,Brooklyn,2023-05-28
+21,Rider_21,Staten Island,2023-08-15
+22,Rider_22,Queens,2022-09-01
+23,Rider_23,Bronx,2024-06-22
+24,Rider_24,Staten Island,2024-10-14
+25,Rider_25,Queens,2022-10-20
+26,Rider_26,Queens,2024-06-18
+27,Rider_27,Manhattan,2024-03-14
+28,Rider_28,Brooklyn,2024-05-01
+29,Rider_29,Brooklyn,2025-02-22
+30,Rider_30,Staten Island,2022-07-19
+31,Rider_31,Brooklyn,2024-10-28
+32,Rider_32,Bronx,2025-08-03
+33,Rider_33,Brooklyn,2023-12-07
+34,Rider_34,Staten Island,2023-07-09
+35,Rider_35,Brooklyn,2024-11-08
+36,Rider_36,Bronx,2024-10-12
+37,Rider_37,Manhattan,2024-01-23
+38,Rider_38,Staten Island,2023-05-07
+39,Rider_39,Manhattan,2024-05-04
+40,Rider_40,Manhattan,2023-04-14
+41,Rider_41,Manhattan,2024-02-08
+42,Rider_42,Queens,2023-06-17
+43,Rider_43,Queens,2023-01-19
+44,Rider_44,Manhattan,2024-08-25
+45,Rider_45,Staten Island,2023-12-05
+46,Rider_46,Bronx,2024-10-03
+47,Rider_47,Bronx,2024-08-27
+48,Rider_48,Brooklyn,2022-11-30
+49,Rider_49,Staten Island,2025-04-30
+50,Rider_50,Queens,2023-07-02
+51,Rider_51,Manhattan,2024-07-18
+52,Rider_52,Brooklyn,2024-11-23
+53,Rider_53,Bronx,2022-10-05
+54,Rider_54,Queens,2022-06-01
+55,Rider_55,Queens,2025-09-04
+56,Rider_56,Manhattan,2022-06-19
+57,Rider_57,Bronx,2024-01-05
+58,Rider_58,Staten Island,2023-08-30
+59,Rider_59,Queens,2025-01-12
+60,Rider_60,Manhattan,2025-07-07
+61,Rider_61,Staten Island,2023-08-19
+62,Rider_62,Bronx,2024-01-23
+63,Rider_63,Queens,2022-09-11
+64,Rider_64,Staten Island,2025-02-12
+65,Rider_65,Staten Island,2023-11-02
+66,Rider_66,Staten Island,2025-08-20
+67,Rider_67,Queens,2024-10-06
+68,Rider_68,Queens,2022-11-21
+69,Rider_69,Brooklyn,2025-03-01
+70,Rider_70,Bronx,2023-08-05
+71,Rider_71,Manhattan,2024-05-27
+72,Rider_72,Staten Island,2024-09-27
+73,Rider_73,Brooklyn,2025-02-14
+74,Rider_74,Manhattan,2024-02-29
+75,Rider_75,Brooklyn,2023-07-25
+76,Rider_76,Queens,2024-01-15
+77,Rider_77,Staten Island,2023-09-28
+78,Rider_78,Manhattan,2023-07-17
+79,Rider_79,Manhattan,2024-12-22
+80,Rider_80,Manhattan,2025-06-12
+81,Rider_81,Manhattan,2025-07-11
+82,Rider_82,Manhattan,2023-04-28
+83,Rider_83,Brooklyn,2024-03-16
+84,Rider_84,Staten Island,2022-07-11
+85,Rider_85,Queens,2025-01-14
+86,Rider_86,Queens,2022-09-13
+87,Rider_87,Queens,2022-12-19
+88,Rider_88,Queens,2023-08-24
+89,Rider_89,Brooklyn,2024-11-26
+90,Rider_90,Bronx,2022-12-27
+91,Rider_91,Staten Island,2023-12-15
+92,Rider_92,Manhattan,2025-07-16
+93,Rider_93,Bronx,2024-05-13
+94,Rider_94,Queens,2024-07-10
+95,Rider_95,Bronx,2025-06-12
+96,Rider_96,Staten Island,2023-08-28
+97,Rider_97,Manhattan,2024-03-28
+98,Rider_98,Manhattan,2024-02-19
+99,Rider_99,Staten Island,2023-06-22
+100,Rider_100,Staten Island,2023-03-23
+101,Rider_101,Queens,2023-02-13
+102,Rider_102,Manhattan,2025-06-09
+103,Rider_103,Bronx,2023-02-23
+104,Rider_104,Brooklyn,2023-07-24
+105,Rider_105,Brooklyn,2023-01-21
+106,Rider_106,Staten Island,2025-02-10
+107,Rider_107,Queens,2023-12-26
+108,Rider_108,Brooklyn,2022-07-19
+109,Rider_109,Manhattan,2025-07-25
+110,Rider_110,Staten Island,2023-01-09
+111,Rider_111,Bronx,2024-12-07
+112,Rider_112,Staten Island,2023-03-04
+113,Rider_113,Bronx,2025-07-05
+114,Rider_114,Staten Island,2023-07-25
+115,Rider_115,Staten Island,2024-02-01
+116,Rider_116,Staten Island,2023-06-10
+117,Rider_117,Bronx,2022-08-12
+118,Rider_118,Bronx,2025-04-19
+119,Rider_119,Staten Island,2022-12-12
+120,Rider_120,Brooklyn,2025-08-23
+121,Rider_121,Queens,2025-09-08
+122,Rider_122,Queens,2024-09-24
+123,Rider_123,Queens,2025-04-30
+124,Rider_124,Bronx,2025-05-22
+125,Rider_125,Bronx,2022-06-23
+126,Rider_126,Brooklyn,2023-05-26
+127,Rider_127,Queens,2025-06-03
+128,Rider_128,Queens,2023-12-12
+129,Rider_129,Staten Island,2024-04-02
+130,Rider_130,Bronx,2025-07-16
+131,Rider_131,Queens,2024-04-09
+132,Rider_132,Brooklyn,2023-08-14
+133,Rider_133,Brooklyn,2024-12-19
+134,Rider_134,Queens,2022-06-07
+135,Rider_135,Bronx,2023-07-26
+136,Rider_136,Brooklyn,2024-09-10
+137,Rider_137,Staten Island,2023-12-11
+138,Rider_138,Brooklyn,2025-08-15
+139,Rider_139,Manhattan,2024-11-30
+140,Rider_140,Manhattan,2025-03-03
+141,Rider_141,Bronx,2022-10-04
+142,Rider_142,Queens,2023-06-30
+143,Rider_143,Bronx,2024-08-25
+144,Rider_144,Bronx,2024-10-28
+145,Rider_145,Bronx,2023-12-28
+146,Rider_146,Bronx,2023-04-21
+147,Rider_147,Staten Island,2024-12-16
+148,Rider_148,Staten Island,2024-09-10
+149,Rider_149,Brooklyn,2025-04-20
+150,Rider_150,Manhattan,2024-09-14
+151,Rider_151,Bronx,2024-12-12
+152,Rider_152,Brooklyn,2023-08-17
+153,Rider_153,Manhattan,2022-08-14
+154,Rider_154,Queens,2023-12-09
+155,Rider_155,Staten Island,2025-08-22
+156,Rider_156,Manhattan,2023-05-29
+157,Rider_157,Queens,2023-08-22
+158,Rider_158,Manhattan,2023-02-17
+159,Rider_159,Staten Island,2022-10-03
+160,Rider_160,Staten Island,2024-11-27
+161,Rider_161,Brooklyn,2023-01-31
+162,Rider_162,Bronx,2023-11-24
+163,Rider_163,Manhattan,2023-09-28
+164,Rider_164,Manhattan,2022-09-30
+165,Rider_165,Queens,2022-10-03
+166,Rider_166,Staten Island,2022-11-17
+167,Rider_167,Manhattan,2022-10-02
+168,Rider_168,Staten Island,2025-04-24
+169,Rider_169,Manhattan,2025-06-15
+170,Rider_170,Brooklyn,2024-03-07
+171,Rider_171,Bronx,2024-07-25
+172,Rider_172,Manhattan,2022-12-18
+173,Rider_173,Staten Island,2023-06-04
+174,Rider_174,Brooklyn,2024-08-05
+175,Rider_175,Manhattan,2022-08-16
+176,Rider_176,Queens,2022-07-29
+177,Rider_177,Bronx,2023-08-05
+178,Rider_178,Manhattan,2024-02-28
+179,Rider_179,Brooklyn,2022-09-17
+180,Rider_180,Queens,2025-03-04
+181,Rider_181,Brooklyn,2022-08-07
+182,Rider_182,Brooklyn,2025-05-28
+183,Rider_183,Queens,2025-09-01
+184,Rider_184,Brooklyn,2023-04-01
+185,Rider_185,Queens,2024-04-04
+186,Rider_186,Manhattan,2023-05-31
+187,Rider_187,Queens,2024-08-29
+188,Rider_188,Queens,2023-05-09
+189,Rider_189,Bronx,2025-01-02
+190,Rider_190,Queens,2024-11-15
+191,Rider_191,Queens,2025-07-07
+192,Rider_192,Manhattan,2024-07-01
+193,Rider_193,Bronx,2023-05-07
+194,Rider_194,Staten Island,2024-12-28
+195,Rider_195,Manhattan,2023-06-18
+196,Rider_196,Manhattan,2025-02-28
+197,Rider_197,Staten Island,2023-03-27
+198,Rider_198,Queens,2022-10-17
+199,Rider_199,Brooklyn,2023-05-25
+200,Rider_200,Bronx,2024-09-13
+201,Rider_201,Brooklyn,2023-09-26
+202,Rider_202,Staten Island,2024-11-25
+203,Rider_203,Manhattan,2025-07-09
+204,Rider_204,Manhattan,2024-10-13
+205,Rider_205,Bronx,2022-10-17
+206,Rider_206,Manhattan,2025-02-20
+207,Rider_207,Manhattan,2023-08-09
+208,Rider_208,Bronx,2023-10-22
+209,Rider_209,Bronx,2023-02-28
+210,Rider_210,Staten Island,2025-06-27
+211,Rider_211,Manhattan,2022-09-12
+212,Rider_212,Manhattan,2024-07-01
+213,Rider_213,Staten Island,2024-07-26
+214,Rider_214,Queens,2022-11-12
+215,Rider_215,Queens,2025-02-23
+216,Rider_216,Queens,2023-11-02
+217,Rider_217,Staten Island,2023-10-30
+218,Rider_218,Manhattan,2024-03-18
+219,Rider_219,Staten Island,2024-02-03
+220,Rider_220,Staten Island,2022-11-11
+221,Rider_221,Queens,2022-08-03
+222,Rider_222,Brooklyn,2025-06-19
+223,Rider_223,Manhattan,2025-07-15
+224,Rider_224,Queens,2023-02-22
+225,Rider_225,Brooklyn,2025-08-07
+226,Rider_226,Brooklyn,2023-02-01
+227,Rider_227,Bronx,2023-06-30
+228,Rider_228,Manhattan,2023-09-19
+229,Rider_229,Brooklyn,2025-02-01
+230,Rider_230,Queens,2025-04-09
+231,Rider_231,Bronx,2023-12-10
+232,Rider_232,Manhattan,2025-03-14
+233,Rider_233,Staten Island,2024-10-30
+234,Rider_234,Queens,2022-10-25
+235,Rider_235,Brooklyn,2024-03-27
+236,Rider_236,Brooklyn,2024-02-10
+237,Rider_237,Queens,2024-08-28
+238,Rider_238,Brooklyn,2024-10-11
+239,Rider_239,Bronx,2024-01-03
+240,Rider_240,Manhattan,2025-03-19
+241,Rider_241,Bronx,2024-04-25
+242,Rider_242,Brooklyn,2025-06-30
+243,Rider_243,Staten Island,2023-07-12
+244,Rider_244,Manhattan,2023-07-04
+245,Rider_245,Manhattan,2024-05-15
+246,Rider_246,Queens,2024-05-04
+247,Rider_247,Queens,2024-06-30
+248,Rider_248,Staten Island,2023-10-12
+249,Rider_249,Manhattan,2025-01-29
+250,Rider_250,Staten Island,2022-08-21
+251,Rider_251,Queens,2024-01-25
+252,Rider_252,Queens,2024-07-11
+253,Rider_253,Manhattan,2024-11-19
+254,Rider_254,Bronx,2023-05-31
+255,Rider_255,Brooklyn,2022-11-10
+256,Rider_256,Queens,2025-05-07
+257,Rider_257,Queens,2023-10-24
+258,Rider_258,Bronx,2022-09-24
+259,Rider_259,Bronx,2024-12-27
+260,Rider_260,Staten Island,2023-05-03
+261,Rider_261,Staten Island,2024-10-28
+262,Rider_262,Brooklyn,2024-06-06
+263,Rider_263,Brooklyn,2024-09-17
+264,Rider_264,Manhattan,2022-10-25
+265,Rider_265,Staten Island,2023-08-17
+266,Rider_266,Queens,2024-09-14
+267,Rider_267,Staten Island,2025-04-02
+268,Rider_268,Queens,2024-12-29
+269,Rider_269,Bronx,2023-03-14
+270,Rider_270,Staten Island,2024-05-20
+271,Rider_271,Bronx,2025-07-12
+272,Rider_272,Brooklyn,2023-09-23
+273,Rider_273,Brooklyn,2022-06-22
+274,Rider_274,Manhattan,2024-04-13
+275,Rider_275,Staten Island,2024-11-22
+276,Rider_276,Bronx,2023-04-16
+277,Rider_277,Queens,2022-10-04
+278,Rider_278,Brooklyn,2023-03-04
+279,Rider_279,Brooklyn,2022-12-11
+280,Rider_280,Queens,2024-04-26
+281,Rider_281,Bronx,2022-07-27
+282,Rider_282,Bronx,2025-08-30
+283,Rider_283,Staten Island,2022-06-19
+284,Rider_284,Staten Island,2023-02-19
+285,Rider_285,Manhattan,2024-08-02
+286,Rider_286,Brooklyn,2022-09-21
+287,Rider_287,Staten Island,2023-11-24
+288,Rider_288,Bronx,2024-03-08
+289,Rider_289,Queens,2023-12-31
+290,Rider_290,Bronx,2025-05-24
+291,Rider_291,Brooklyn,2022-06-25
+292,Rider_292,Bronx,2022-06-01
+293,Rider_293,Manhattan,2024-11-27
+294,Rider_294,Brooklyn,2022-10-19
+295,Rider_295,Queens,2024-03-09
+296,Rider_296,Manhattan,2022-12-05
+297,Rider_297,Brooklyn,2025-07-26
+298,Rider_298,Queens,2022-12-18
+299,Rider_299,Manhattan,2025-07-25
+300,Rider_300,Manhattan,2023-02-12
+301,Rider_301,Brooklyn,2023-11-29
+302,Rider_302,Staten Island,2022-12-11
+303,Rider_303,Manhattan,2024-05-03
+304,Rider_304,Manhattan,2025-07-02
+305,Rider_305,Queens,2024-08-10
+306,Rider_306,Bronx,2024-12-28
+307,Rider_307,Brooklyn,2023-07-19
+308,Rider_308,Brooklyn,2025-06-03
+309,Rider_309,Staten Island,2024-11-26
+310,Rider_310,Staten Island,2022-12-05
+311,Rider_311,Brooklyn,2022-07-15
+312,Rider_312,Staten Island,2022-08-22
+313,Rider_313,Queens,2025-07-21
+314,Rider_314,Brooklyn,2023-05-24
+315,Rider_315,Staten Island,2025-05-25
+316,Rider_316,Brooklyn,2024-12-22
+317,Rider_317,Bronx,2023-06-10
+318,Rider_318,Manhattan,2022-11-09
+319,Rider_319,Brooklyn,2023-04-18
+320,Rider_320,Manhattan,2023-08-24
+321,Rider_321,Staten Island,2025-04-02
+322,Rider_322,Manhattan,2022-12-01
+323,Rider_323,Brooklyn,2022-09-19
+324,Rider_324,Bronx,2023-10-21
+325,Rider_325,Staten Island,2023-03-22
+326,Rider_326,Brooklyn,2024-11-20
+327,Rider_327,Staten Island,2025-01-29
+328,Rider_328,Queens,2024-02-22
+329,Rider_329,Manhattan,2025-04-16
+330,Rider_330,Queens,2024-06-02
+331,Rider_331,Brooklyn,2023-04-17
+332,Rider_332,Bronx,2024-11-29
+333,Rider_333,Staten Island,2023-08-11
+334,Rider_334,Manhattan,2024-07-20
+335,Rider_335,Staten Island,2025-05-12
+336,Rider_336,Brooklyn,2024-05-26
+337,Rider_337,Staten Island,2022-07-01
+338,Rider_338,Manhattan,2023-05-03
+339,Rider_339,Brooklyn,2022-11-30
+340,Rider_340,Staten Island,2025-04-12
+341,Rider_341,Bronx,2023-11-26
+342,Rider_342,Brooklyn,2025-06-02
+343,Rider_343,Brooklyn,2025-03-30
+344,Rider_344,Bronx,2024-03-21
+345,Rider_345,Queens,2022-11-07
+346,Rider_346,Manhattan,2025-04-03
+347,Rider_347,Queens,2023-07-17
+348,Rider_348,Staten Island,2025-03-08
+349,Rider_349,Bronx,2022-07-23
+350,Rider_350,Queens,2023-07-13
+351,Rider_351,Brooklyn,2024-09-24
+352,Rider_352,Staten Island,2025-04-11
+353,Rider_353,Staten Island,2025-04-19
+354,Rider_354,Queens,2024-05-03
+355,Rider_355,Queens,2023-02-15
+356,Rider_356,Bronx,2025-05-18
+357,Rider_357,Manhattan,2024-07-15
+358,Rider_358,Queens,2025-04-01
+359,Rider_359,Queens,2024-09-27
+360,Rider_360,Brooklyn,2023-05-20
+361,Rider_361,Staten Island,2025-06-03
+362,Rider_362,Manhattan,2024-10-20
+363,Rider_363,Brooklyn,2025-02-15
+364,Rider_364,Bronx,2025-03-14
+365,Rider_365,Bronx,2025-08-21
+366,Rider_366,Queens,2025-06-24
+367,Rider_367,Queens,2023-03-21
+368,Rider_368,Bronx,2022-12-26
+369,Rider_369,Queens,2025-06-16
+370,Rider_370,Manhattan,2024-08-26
+371,Rider_371,Queens,2023-06-25
+372,Rider_372,Staten Island,2023-04-21
+373,Rider_373,Queens,2024-12-26
+374,Rider_374,Brooklyn,2024-11-05
+375,Rider_375,Manhattan,2025-08-24
+376,Rider_376,Brooklyn,2024-03-29
+377,Rider_377,Brooklyn,2024-02-23
+378,Rider_378,Staten Island,2023-12-29
+379,Rider_379,Manhattan,2022-10-15
+380,Rider_380,Manhattan,2023-08-02
+381,Rider_381,Manhattan,2024-02-02
+382,Rider_382,Manhattan,2024-11-27
+383,Rider_383,Manhattan,2024-08-27
+384,Rider_384,Staten Island,2022-10-19
+385,Rider_385,Queens,2025-06-11
+386,Rider_386,Brooklyn,2022-11-24
+387,Rider_387,Manhattan,2022-12-15
+388,Rider_388,Queens,2024-02-14
+389,Rider_389,Queens,2024-04-21
+390,Rider_390,Brooklyn,2023-07-06
+391,Rider_391,Staten Island,2023-09-14
+392,Rider_392,Bronx,2023-01-04
+393,Rider_393,Bronx,2024-12-15
+394,Rider_394,Queens,2024-02-22
+395,Rider_395,Brooklyn,2025-01-06
+396,Rider_396,Bronx,2024-11-22
+397,Rider_397,Queens,2022-11-22
+398,Rider_398,Staten Island,2022-06-23
+399,Rider_399,Bronx,2023-01-21
+400,Rider_400,Queens,2025-04-02
+401,Rider_401,Queens,2025-06-29
+402,Rider_402,Manhattan,2024-12-15
+403,Rider_403,Staten Island,2023-11-05
+404,Rider_404,Manhattan,2023-08-05
+405,Rider_405,Brooklyn,2024-08-01
+406,Rider_406,Manhattan,2023-11-15
+407,Rider_407,Manhattan,2025-02-03
+408,Rider_408,Bronx,2024-08-18
+409,Rider_409,Queens,2024-11-29
+410,Rider_410,Staten Island,2025-06-29
+411,Rider_411,Manhattan,2024-10-18
+412,Rider_412,Staten Island,2023-11-22
+413,Rider_413,Manhattan,2025-03-20
+414,Rider_414,Brooklyn,2023-01-13
+415,Rider_415,Manhattan,2024-10-20
+416,Rider_416,Bronx,2024-11-08
+417,Rider_417,Queens,2025-04-02
+418,Rider_418,Brooklyn,2022-12-27
+419,Rider_419,Manhattan,2024-06-10
+420,Rider_420,Staten Island,2023-07-02
+421,Rider_421,Brooklyn,2025-06-28
+422,Rider_422,Brooklyn,2022-07-01
+423,Rider_423,Manhattan,2024-11-14
+424,Rider_424,Brooklyn,2024-03-10
+425,Rider_425,Staten Island,2023-04-25
+426,Rider_426,Brooklyn,2025-09-02
+427,Rider_427,Staten Island,2025-01-07
+428,Rider_428,Manhattan,2025-06-28
+429,Rider_429,Queens,2024-02-11
+430,Rider_430,Brooklyn,2025-09-09
+431,Rider_431,Queens,2022-11-09
+432,Rider_432,Staten Island,2024-07-15
+433,Rider_433,Brooklyn,2023-03-01
+434,Rider_434,Bronx,2025-03-23
+435,Rider_435,Queens,2025-04-17
+436,Rider_436,Brooklyn,2023-04-22
+437,Rider_437,Queens,2024-12-26
+438,Rider_438,Brooklyn,2025-08-16
+439,Rider_439,Manhattan,2023-11-22
+440,Rider_440,Queens,2023-10-01
+441,Rider_441,Bronx,2024-08-30
+442,Rider_442,Bronx,2025-05-24
+443,Rider_443,Staten Island,2023-05-22
+444,Rider_444,Brooklyn,2023-01-21
+445,Rider_445,Queens,2023-01-13
+446,Rider_446,Staten Island,2022-07-19
+447,Rider_447,Queens,2022-09-26
+448,Rider_448,Brooklyn,2022-07-24
+449,Rider_449,Bronx,2023-12-17
+450,Rider_450,Manhattan,2025-05-03
+451,Rider_451,Bronx,2022-07-23
+452,Rider_452,Staten Island,2023-12-10
+453,Rider_453,Manhattan,2025-06-30
+454,Rider_454,Staten Island,2024-10-15
+455,Rider_455,Brooklyn,2023-07-03
+456,Rider_456,Manhattan,2025-08-05
+457,Rider_457,Staten Island,2024-04-05
+458,Rider_458,Brooklyn,2023-06-22
+459,Rider_459,Bronx,2022-09-19
+460,Rider_460,Brooklyn,2024-02-04
+461,Rider_461,Queens,2022-06-17
+462,Rider_462,Brooklyn,2024-10-31
+463,Rider_463,Brooklyn,2023-11-23
+464,Rider_464,Queens,2022-11-18
+465,Rider_465,Staten Island,2023-07-14
+466,Rider_466,Staten Island,2024-06-09
+467,Rider_467,Brooklyn,2024-10-05
+468,Rider_468,Queens,2023-01-16
+469,Rider_469,Queens,2022-09-27
+470,Rider_470,Bronx,2025-08-23
+471,Rider_471,Staten Island,2024-07-23
+472,Rider_472,Manhattan,2023-09-08
+473,Rider_473,Staten Island,2022-09-12
+474,Rider_474,Staten Island,2024-04-28
+475,Rider_475,Bronx,2022-11-22
+476,Rider_476,Manhattan,2024-06-14
+477,Rider_477,Bronx,2025-08-01
+478,Rider_478,Manhattan,2024-03-26
+479,Rider_479,Brooklyn,2022-07-03
+480,Rider_480,Manhattan,2022-07-25
+481,Rider_481,Bronx,2023-11-01
+482,Rider_482,Staten Island,2024-06-25
+483,Rider_483,Manhattan,2022-06-12
+484,Rider_484,Manhattan,2024-05-20
+485,Rider_485,Queens,2023-12-07
+486,Rider_486,Staten Island,2023-06-08
+487,Rider_487,Brooklyn,2023-09-27
+488,Rider_488,Bronx,2025-01-28
+489,Rider_489,Brooklyn,2024-02-13
+490,Rider_490,Staten Island,2023-04-03
+491,Rider_491,Manhattan,2023-08-31
+492,Rider_492,Manhattan,2022-11-07
+493,Rider_493,Staten Island,2023-04-27
+494,Rider_494,Manhattan,2024-07-15
+495,Rider_495,Manhattan,2023-01-11
+496,Rider_496,Manhattan,2025-02-07
+497,Rider_497,Bronx,2024-05-29
+498,Rider_498,Bronx,2025-05-04
+499,Rider_499,Queens,2025-05-18
+500,Rider_500,Brooklyn,2024-03-05
+501,Rider_501,Staten Island,2024-02-06
+502,Rider_502,Staten Island,2022-12-12
+503,Rider_503,Staten Island,2023-10-02
+504,Rider_504,Queens,2022-11-04
+505,Rider_505,Bronx,2024-01-31
+506,Rider_506,Queens,2023-07-17
+507,Rider_507,Staten Island,2025-06-07
+508,Rider_508,Brooklyn,2025-07-22
+509,Rider_509,Manhattan,2023-09-14
+510,Rider_510,Bronx,2023-10-29
+511,Rider_511,Bronx,2025-07-02
+512,Rider_512,Queens,2023-06-28
+513,Rider_513,Bronx,2024-02-21
+514,Rider_514,Staten Island,2024-01-29
+515,Rider_515,Staten Island,2025-02-04
+516,Rider_516,Queens,2023-08-08
+517,Rider_517,Staten Island,2025-08-10
+518,Rider_518,Brooklyn,2023-11-22
+519,Rider_519,Queens,2023-03-05
+520,Rider_520,Brooklyn,2023-01-19
+521,Rider_521,Manhattan,2025-06-18
+522,Rider_522,Brooklyn,2023-05-28
+523,Rider_523,Manhattan,2022-06-26
+524,Rider_524,Manhattan,2025-04-14
+525,Rider_525,Brooklyn,2023-10-20
+526,Rider_526,Queens,2023-02-22
+527,Rider_527,Staten Island,2023-09-04
+528,Rider_528,Staten Island,2023-08-30
+529,Rider_529,Manhattan,2025-05-27
+530,Rider_530,Manhattan,2025-03-03
+531,Rider_531,Queens,2024-10-10
+532,Rider_532,Bronx,2023-10-04
+533,Rider_533,Brooklyn,2025-05-08
+534,Rider_534,Manhattan,2023-12-16
+535,Rider_535,Staten Island,2025-06-30
+536,Rider_536,Queens,2023-01-02
+537,Rider_537,Brooklyn,2023-12-11
+538,Rider_538,Queens,2022-11-06
+539,Rider_539,Brooklyn,2023-10-02
+540,Rider_540,Brooklyn,2024-04-16
+541,Rider_541,Manhattan,2024-08-02
+542,Rider_542,Queens,2022-06-05
+543,Rider_543,Queens,2023-05-27
+544,Rider_544,Staten Island,2023-09-02
+545,Rider_545,Staten Island,2023-02-03
+546,Rider_546,Manhattan,2025-01-01
+547,Rider_547,Manhattan,2023-07-27
+548,Rider_548,Bronx,2022-06-15
+549,Rider_549,Staten Island,2024-06-05
+550,Rider_550,Brooklyn,2025-07-20
+551,Rider_551,Queens,2023-03-04
+552,Rider_552,Manhattan,2023-08-27
+553,Rider_553,Queens,2024-01-19
+554,Rider_554,Queens,2023-08-20
+555,Rider_555,Bronx,2022-12-27
+556,Rider_556,Staten Island,2024-05-14
+557,Rider_557,Manhattan,2023-03-29
+558,Rider_558,Queens,2022-06-03
+559,Rider_559,Manhattan,2025-02-14
+560,Rider_560,Brooklyn,2025-06-21
+561,Rider_561,Bronx,2023-11-02
+562,Rider_562,Brooklyn,2023-10-06
+563,Rider_563,Manhattan,2024-02-10
+564,Rider_564,Manhattan,2025-08-28
+565,Rider_565,Staten Island,2023-04-27
+566,Rider_566,Queens,2023-04-29
+567,Rider_567,Queens,2022-07-20
+568,Rider_568,Brooklyn,2024-10-10
+569,Rider_569,Bronx,2023-02-27
+570,Rider_570,Queens,2024-01-01
+571,Rider_571,Staten Island,2023-12-12
+572,Rider_572,Brooklyn,2024-04-26
+573,Rider_573,Brooklyn,2025-06-18
+574,Rider_574,Staten Island,2023-08-20
+575,Rider_575,Bronx,2025-03-13
+576,Rider_576,Staten Island,2025-08-06
+577,Rider_577,Bronx,2023-05-23
+578,Rider_578,Staten Island,2023-03-01
+579,Rider_579,Staten Island,2025-04-08
+580,Rider_580,Manhattan,2023-04-07
+581,Rider_581,Brooklyn,2024-10-17
+582,Rider_582,Staten Island,2024-11-02
+583,Rider_583,Staten Island,2022-11-01
+584,Rider_584,Queens,2024-02-10
+585,Rider_585,Brooklyn,2024-10-30
+586,Rider_586,Queens,2024-08-05
+587,Rider_587,Brooklyn,2022-10-03
+588,Rider_588,Queens,2024-02-09
+589,Rider_589,Staten Island,2023-01-31
+590,Rider_590,Staten Island,2024-09-25
+591,Rider_591,Manhattan,2023-08-24
+592,Rider_592,Queens,2024-12-16
+593,Rider_593,Bronx,2023-11-02
+594,Rider_594,Manhattan,2025-08-08
+595,Rider_595,Queens,2023-05-28
+596,Rider_596,Queens,2022-06-08
+597,Rider_597,Manhattan,2023-09-21
+598,Rider_598,Staten Island,2023-10-08
+599,Rider_599,Queens,2024-09-10
+600,Rider_600,Staten Island,2025-04-28
+601,Rider_601,Manhattan,2024-01-14
+602,Rider_602,Staten Island,2022-12-04
+603,Rider_603,Brooklyn,2024-06-23
+604,Rider_604,Bronx,2022-09-01
+605,Rider_605,Queens,2022-08-25
+606,Rider_606,Bronx,2025-05-03
+607,Rider_607,Staten Island,2022-10-15
+608,Rider_608,Queens,2023-07-26
+609,Rider_609,Staten Island,2022-08-13
+610,Rider_610,Brooklyn,2025-08-23
+611,Rider_611,Manhattan,2022-11-18
+612,Rider_612,Queens,2022-11-17
+613,Rider_613,Brooklyn,2024-10-19
+614,Rider_614,Brooklyn,2023-04-18
+615,Rider_615,Queens,2023-08-30
+616,Rider_616,Staten Island,2024-12-30
+617,Rider_617,Brooklyn,2024-07-29
+618,Rider_618,Bronx,2024-02-03
+619,Rider_619,Brooklyn,2025-08-22
+620,Rider_620,Staten Island,2024-11-05
+621,Rider_621,Staten Island,2023-05-15
+622,Rider_622,Bronx,2025-09-09
+623,Rider_623,Brooklyn,2022-06-10
+624,Rider_624,Staten Island,2024-06-09
+625,Rider_625,Queens,2024-03-28
+626,Rider_626,Manhattan,2023-11-28
+627,Rider_627,Manhattan,2022-10-07
+628,Rider_628,Manhattan,2024-01-22
+629,Rider_629,Brooklyn,2024-01-26
+630,Rider_630,Bronx,2023-04-23
+631,Rider_631,Staten Island,2025-02-04
+632,Rider_632,Queens,2023-07-09
+633,Rider_633,Queens,2024-02-19
+634,Rider_634,Brooklyn,2024-05-18
+635,Rider_635,Manhattan,2025-04-06
+636,Rider_636,Brooklyn,2023-03-01
+637,Rider_637,Bronx,2024-04-15
+638,Rider_638,Bronx,2022-09-24
+639,Rider_639,Staten Island,2024-10-08
+640,Rider_640,Staten Island,2024-04-23
+641,Rider_641,Bronx,2025-06-19
+642,Rider_642,Bronx,2025-06-10
+643,Rider_643,Bronx,2023-04-20
+644,Rider_644,Brooklyn,2025-01-16
+645,Rider_645,Bronx,2022-09-22
+646,Rider_646,Queens,2025-05-17
+647,Rider_647,Manhattan,2022-11-01
+648,Rider_648,Bronx,2023-04-11
+649,Rider_649,Manhattan,2025-04-30
+650,Rider_650,Brooklyn,2022-09-13
+651,Rider_651,Manhattan,2023-05-20
+652,Rider_652,Brooklyn,2025-03-12
+653,Rider_653,Queens,2024-06-02
+654,Rider_654,Brooklyn,2024-05-09
+655,Rider_655,Brooklyn,2024-03-12
+656,Rider_656,Staten Island,2024-09-01
+657,Rider_657,Bronx,2025-01-02
+658,Rider_658,Bronx,2024-03-22
+659,Rider_659,Queens,2022-09-07
+660,Rider_660,Queens,2024-01-09
+661,Rider_661,Bronx,2023-03-09
+662,Rider_662,Staten Island,2023-07-08
+663,Rider_663,Bronx,2025-07-07
+664,Rider_664,Staten Island,2024-04-30
+665,Rider_665,Queens,2022-12-16
+666,Rider_666,Manhattan,2023-04-23
+667,Rider_667,Queens,2022-11-01
+668,Rider_668,Queens,2023-12-04
+669,Rider_669,Brooklyn,2023-07-10
+670,Rider_670,Brooklyn,2023-09-05
+671,Rider_671,Brooklyn,2022-10-10
+672,Rider_672,Brooklyn,2024-07-30
+673,Rider_673,Staten Island,2024-10-21
+674,Rider_674,Bronx,2022-08-23
+675,Rider_675,Manhattan,2024-06-23
+676,Rider_676,Queens,2024-02-18
+677,Rider_677,Staten Island,2025-07-07
+678,Rider_678,Manhattan,2023-01-07
+679,Rider_679,Staten Island,2023-12-05
+680,Rider_680,Staten Island,2025-08-14
+681,Rider_681,Queens,2022-09-20
+682,Rider_682,Bronx,2024-02-05
+683,Rider_683,Brooklyn,2024-12-10
+684,Rider_684,Bronx,2023-09-18
+685,Rider_685,Queens,2024-09-13
+686,Rider_686,Queens,2023-02-26
+687,Rider_687,Queens,2023-07-26
+688,Rider_688,Manhattan,2024-05-07
+689,Rider_689,Bronx,2022-07-10
+690,Rider_690,Bronx,2022-12-06
+691,Rider_691,Staten Island,2025-08-31
+692,Rider_692,Staten Island,2025-02-18
+693,Rider_693,Staten Island,2023-11-18
+694,Rider_694,Queens,2025-03-24
+695,Rider_695,Bronx,2023-03-17
+696,Rider_696,Queens,2023-08-07
+697,Rider_697,Manhattan,2023-09-14
+698,Rider_698,Staten Island,2024-02-18
+699,Rider_699,Queens,2023-03-06
+700,Rider_700,Queens,2024-10-24
+701,Rider_701,Manhattan,2024-01-02
+702,Rider_702,Brooklyn,2024-10-10
+703,Rider_703,Bronx,2023-02-09
+704,Rider_704,Brooklyn,2022-11-28
+705,Rider_705,Staten Island,2024-04-11
+706,Rider_706,Queens,2024-09-02
+707,Rider_707,Manhattan,2024-04-30
+708,Rider_708,Manhattan,2023-12-18
+709,Rider_709,Bronx,2024-04-10
+710,Rider_710,Brooklyn,2023-06-26
+711,Rider_711,Bronx,2025-06-13
+712,Rider_712,Queens,2022-12-29
+713,Rider_713,Bronx,2023-06-19
+714,Rider_714,Manhattan,2023-05-08
+715,Rider_715,Manhattan,2024-09-21
+716,Rider_716,Staten Island,2025-04-27
+717,Rider_717,Staten Island,2023-07-25
+718,Rider_718,Queens,2024-06-20
+719,Rider_719,Brooklyn,2025-09-05
+720,Rider_720,Bronx,2023-04-02
+721,Rider_721,Queens,2024-05-02
+722,Rider_722,Staten Island,2024-10-16
+723,Rider_723,Bronx,2023-11-19
+724,Rider_724,Staten Island,2025-07-10
+725,Rider_725,Bronx,2022-12-23
+726,Rider_726,Brooklyn,2023-10-09
+727,Rider_727,Queens,2025-05-06
+728,Rider_728,Bronx,2023-10-17
+729,Rider_729,Manhattan,2025-04-11
+730,Rider_730,Manhattan,2022-12-30
+731,Rider_731,Bronx,2023-04-06
+732,Rider_732,Bronx,2024-03-22
+733,Rider_733,Bronx,2024-06-22
+734,Rider_734,Manhattan,2023-02-27
+735,Rider_735,Manhattan,2024-12-24
+736,Rider_736,Bronx,2022-07-02
+737,Rider_737,Staten Island,2023-08-17
+738,Rider_738,Staten Island,2022-11-09
+739,Rider_739,Brooklyn,2024-07-06
+740,Rider_740,Queens,2023-02-09
+741,Rider_741,Staten Island,2023-11-03
+742,Rider_742,Manhattan,2025-02-01
+743,Rider_743,Staten Island,2022-06-10
+744,Rider_744,Brooklyn,2024-05-26
+745,Rider_745,Brooklyn,2023-10-18
+746,Rider_746,Queens,2024-07-24
+747,Rider_747,Staten Island,2023-08-10
+748,Rider_748,Manhattan,2025-07-09
+749,Rider_749,Manhattan,2022-10-31
+750,Rider_750,Bronx,2024-12-03
+751,Rider_751,Manhattan,2024-10-16
+752,Rider_752,Queens,2025-06-30
+753,Rider_753,Queens,2024-06-22
+754,Rider_754,Manhattan,2023-12-15
+755,Rider_755,Manhattan,2025-06-09
+756,Rider_756,Bronx,2023-10-02
+757,Rider_757,Manhattan,2024-11-11
+758,Rider_758,Bronx,2025-06-16
+759,Rider_759,Bronx,2022-09-12
+760,Rider_760,Manhattan,2025-06-24
+761,Rider_761,Brooklyn,2025-03-21
+762,Rider_762,Brooklyn,2025-03-03
+763,Rider_763,Bronx,2023-07-12
+764,Rider_764,Manhattan,2022-11-14
+765,Rider_765,Brooklyn,2023-10-22
+766,Rider_766,Manhattan,2023-04-09
+767,Rider_767,Manhattan,2024-07-02
+768,Rider_768,Manhattan,2024-04-11
+769,Rider_769,Staten Island,2023-09-20
+770,Rider_770,Manhattan,2022-08-12
+771,Rider_771,Staten Island,2025-08-08
+772,Rider_772,Bronx,2024-01-03
+773,Rider_773,Brooklyn,2023-02-17
+774,Rider_774,Brooklyn,2023-01-31
+775,Rider_775,Brooklyn,2023-12-13
+776,Rider_776,Brooklyn,2025-06-04
+777,Rider_777,Brooklyn,2022-11-22
+778,Rider_778,Brooklyn,2022-09-17
+779,Rider_779,Brooklyn,2022-11-30
+780,Rider_780,Bronx,2022-12-09
+781,Rider_781,Manhattan,2022-08-04
+782,Rider_782,Queens,2025-01-18
+783,Rider_783,Staten Island,2025-06-28
+784,Rider_784,Queens,2024-10-11
+785,Rider_785,Queens,2025-07-26
+786,Rider_786,Manhattan,2023-06-04
+787,Rider_787,Manhattan,2024-09-28
+788,Rider_788,Manhattan,2022-07-13
+789,Rider_789,Brooklyn,2023-10-01
+790,Rider_790,Bronx,2022-08-17
+791,Rider_791,Brooklyn,2024-09-03
+792,Rider_792,Bronx,2024-04-04
+793,Rider_793,Bronx,2024-05-01
+794,Rider_794,Queens,2024-06-28
+795,Rider_795,Queens,2024-05-28
+796,Rider_796,Bronx,2024-12-11
+797,Rider_797,Bronx,2024-11-18
+798,Rider_798,Brooklyn,2024-11-05
+799,Rider_799,Brooklyn,2025-02-17
+800,Rider_800,Queens,2025-09-04
+801,Rider_801,Manhattan,2023-05-05
+802,Rider_802,Bronx,2022-12-10
+803,Rider_803,Brooklyn,2023-03-10
+804,Rider_804,Queens,2023-06-25
+805,Rider_805,Brooklyn,2025-02-24
+806,Rider_806,Bronx,2023-11-07
+807,Rider_807,Bronx,2024-03-20
+808,Rider_808,Staten Island,2024-05-16
+809,Rider_809,Manhattan,2024-11-07
+810,Rider_810,Staten Island,2025-06-17
+811,Rider_811,Queens,2025-06-23
+812,Rider_812,Brooklyn,2023-08-26
+813,Rider_813,Queens,2023-08-02
+814,Rider_814,Bronx,2025-08-18
+815,Rider_815,Staten Island,2025-04-11
+816,Rider_816,Staten Island,2024-10-30
+817,Rider_817,Staten Island,2023-04-09
+818,Rider_818,Queens,2024-09-17
+819,Rider_819,Bronx,2023-11-01
+820,Rider_820,Brooklyn,2023-06-10
+821,Rider_821,Brooklyn,2023-08-25
+822,Rider_822,Queens,2025-03-11
+823,Rider_823,Staten Island,2024-01-16
+824,Rider_824,Manhattan,2023-10-13
+825,Rider_825,Queens,2023-09-07
+826,Rider_826,Queens,2025-07-22
+827,Rider_827,Bronx,2022-09-21
+828,Rider_828,Brooklyn,2025-04-01
+829,Rider_829,Queens,2025-07-24
+830,Rider_830,Queens,2023-04-27
+831,Rider_831,Staten Island,2022-10-18
+832,Rider_832,Staten Island,2024-11-18
+833,Rider_833,Manhattan,2025-06-25
+834,Rider_834,Bronx,2023-10-30
+835,Rider_835,Manhattan,2023-12-21
+836,Rider_836,Staten Island,2024-09-23
+837,Rider_837,Brooklyn,2025-05-28
+838,Rider_838,Staten Island,2022-09-26
+839,Rider_839,Bronx,2024-11-04
+840,Rider_840,Staten Island,2025-05-18
+841,Rider_841,Bronx,2025-04-22
+842,Rider_842,Bronx,2022-07-20
+843,Rider_843,Bronx,2022-06-19
+844,Rider_844,Bronx,2024-05-26
+845,Rider_845,Bronx,2022-12-14
+846,Rider_846,Brooklyn,2023-12-11
+847,Rider_847,Manhattan,2023-08-26
+848,Rider_848,Queens,2023-03-16
+849,Rider_849,Manhattan,2025-08-08
+850,Rider_850,Bronx,2025-06-12
+851,Rider_851,Brooklyn,2023-06-26
+852,Rider_852,Staten Island,2023-01-01
+853,Rider_853,Brooklyn,2023-01-01
+854,Rider_854,Bronx,2022-10-06
+855,Rider_855,Brooklyn,2024-06-29
+856,Rider_856,Brooklyn,2023-07-09
+857,Rider_857,Bronx,2025-04-18
+858,Rider_858,Brooklyn,2023-05-04
+859,Rider_859,Queens,2024-09-08
+860,Rider_860,Queens,2024-05-14
+861,Rider_861,Brooklyn,2023-05-27
+862,Rider_862,Staten Island,2023-12-21
+863,Rider_863,Bronx,2023-01-04
+864,Rider_864,Queens,2022-12-19
+865,Rider_865,Staten Island,2022-06-17
+866,Rider_866,Brooklyn,2023-04-18
+867,Rider_867,Staten Island,2023-10-31
+868,Rider_868,Manhattan,2024-04-11
+869,Rider_869,Queens,2025-06-10
+870,Rider_870,Brooklyn,2023-07-30
+871,Rider_871,Bronx,2025-03-15
+872,Rider_872,Brooklyn,2023-06-22
+873,Rider_873,Bronx,2024-07-17
+874,Rider_874,Brooklyn,2022-09-06
+875,Rider_875,Staten Island,2022-12-25
+876,Rider_876,Staten Island,2024-01-07
+877,Rider_877,Staten Island,2022-11-13
+878,Rider_878,Manhattan,2022-06-22
+879,Rider_879,Bronx,2022-11-01
+880,Rider_880,Staten Island,2023-01-05
+881,Rider_881,Manhattan,2024-03-30
+882,Rider_882,Bronx,2023-01-16
+883,Rider_883,Brooklyn,2022-06-20
+884,Rider_884,Manhattan,2023-12-05
+885,Rider_885,Queens,2025-01-05
+886,Rider_886,Manhattan,2022-10-26
+887,Rider_887,Manhattan,2025-07-06
+888,Rider_888,Bronx,2023-07-08
+889,Rider_889,Brooklyn,2024-01-17
+890,Rider_890,Queens,2023-06-02
+891,Rider_891,Staten Island,2024-08-10
+892,Rider_892,Staten Island,2024-12-04
+893,Rider_893,Manhattan,2025-08-01
+894,Rider_894,Bronx,2022-08-12
+895,Rider_895,Bronx,2023-09-24
+896,Rider_896,Staten Island,2023-12-12
+897,Rider_897,Queens,2024-06-14
+898,Rider_898,Brooklyn,2022-09-08
+899,Rider_899,Queens,2025-05-18
+900,Rider_900,Brooklyn,2023-10-21
+901,Rider_901,Staten Island,2023-02-13
+902,Rider_902,Brooklyn,2023-07-18
+903,Rider_903,Bronx,2025-05-24
+904,Rider_904,Manhattan,2024-01-16
+905,Rider_905,Manhattan,2025-08-21
+906,Rider_906,Staten Island,2023-02-21
+907,Rider_907,Bronx,2024-08-29
+908,Rider_908,Queens,2025-06-07
+909,Rider_909,Bronx,2024-03-23
+910,Rider_910,Manhattan,2025-01-02
+911,Rider_911,Manhattan,2023-12-12
+912,Rider_912,Bronx,2024-12-03
+913,Rider_913,Bronx,2024-11-07
+914,Rider_914,Manhattan,2024-10-15
+915,Rider_915,Queens,2024-01-31
+916,Rider_916,Staten Island,2023-07-19
+917,Rider_917,Staten Island,2022-06-25
+918,Rider_918,Bronx,2023-03-11
+919,Rider_919,Staten Island,2024-10-28
+920,Rider_920,Manhattan,2023-03-28
+921,Rider_921,Manhattan,2025-05-27
+922,Rider_922,Bronx,2025-03-27
+923,Rider_923,Bronx,2024-08-25
+924,Rider_924,Bronx,2025-08-04
+925,Rider_925,Queens,2025-08-31
+926,Rider_926,Staten Island,2022-08-22
+927,Rider_927,Bronx,2025-06-01
+928,Rider_928,Brooklyn,2022-07-16
+929,Rider_929,Brooklyn,2024-02-08
+930,Rider_930,Manhattan,2024-12-14
+931,Rider_931,Staten Island,2023-02-17
+932,Rider_932,Bronx,2022-11-23
+933,Rider_933,Brooklyn,2025-09-02
+934,Rider_934,Staten Island,2024-03-18
+935,Rider_935,Manhattan,2024-09-19
+936,Rider_936,Queens,2023-06-05
+937,Rider_937,Staten Island,2022-07-24
+938,Rider_938,Staten Island,2024-04-20
+939,Rider_939,Queens,2025-07-25
+940,Rider_940,Staten Island,2023-06-02
+941,Rider_941,Manhattan,2024-03-05
+942,Rider_942,Manhattan,2023-06-14
+943,Rider_943,Queens,2022-08-12
+944,Rider_944,Bronx,2024-12-01
+945,Rider_945,Brooklyn,2024-10-07
+946,Rider_946,Bronx,2022-07-13
+947,Rider_947,Staten Island,2023-06-12
+948,Rider_948,Brooklyn,2025-04-30
+949,Rider_949,Queens,2022-11-17
+950,Rider_950,Queens,2022-12-29
+951,Rider_951,Brooklyn,2022-07-09
+952,Rider_952,Manhattan,2023-06-04
+953,Rider_953,Brooklyn,2024-06-26
+954,Rider_954,Staten Island,2022-10-29
+955,Rider_955,Manhattan,2025-07-09
+956,Rider_956,Queens,2025-05-06
+957,Rider_957,Brooklyn,2025-03-20
+958,Rider_958,Bronx,2024-06-06
+959,Rider_959,Bronx,2022-08-08
+960,Rider_960,Staten Island,2023-03-26
+961,Rider_961,Bronx,2024-12-30
+962,Rider_962,Brooklyn,2024-08-10
+963,Rider_963,Brooklyn,2023-03-23
+964,Rider_964,Bronx,2022-12-20
+965,Rider_965,Brooklyn,2022-07-31
+966,Rider_966,Staten Island,2025-01-01
+967,Rider_967,Manhattan,2025-01-18
+968,Rider_968,Staten Island,2025-08-28
+969,Rider_969,Staten Island,2023-04-27
+970,Rider_970,Brooklyn,2023-05-04
+971,Rider_971,Manhattan,2024-02-29
+972,Rider_972,Brooklyn,2023-03-02
+973,Rider_973,Queens,2025-08-31
+974,Rider_974,Brooklyn,2023-04-15
+975,Rider_975,Brooklyn,2024-01-10
+976,Rider_976,Brooklyn,2023-10-17
+977,Rider_977,Manhattan,2023-06-22
+978,Rider_978,Brooklyn,2024-10-17
+979,Rider_979,Manhattan,2024-09-10
+980,Rider_980,Bronx,2025-03-11
+981,Rider_981,Queens,2024-01-24
+982,Rider_982,Manhattan,2024-04-21
+983,Rider_983,Bronx,2023-10-07
+984,Rider_984,Manhattan,2023-10-03
+985,Rider_985,Manhattan,2024-05-21
+986,Rider_986,Queens,2025-06-01
+987,Rider_987,Staten Island,2023-10-22
+988,Rider_988,Staten Island,2023-06-25
+989,Rider_989,Manhattan,2023-03-22
+990,Rider_990,Brooklyn,2024-08-04
+991,Rider_991,Bronx,2024-10-12
+992,Rider_992,Brooklyn,2023-12-01
+993,Rider_993,Brooklyn,2024-03-10
+994,Rider_994,Manhattan,2023-12-20
+995,Rider_995,Manhattan,2024-09-30
+996,Rider_996,Manhattan,2024-07-09
+997,Rider_997,Manhattan,2023-08-19
+998,Rider_998,Staten Island,2023-05-29
+999,Rider_999,Manhattan,2022-10-01
+1000,Rider_1000,Staten Island,2024-06-11
+1001,Rider_1001,Staten Island,2024-04-10
+1002,Rider_1002,Manhattan,2023-07-25
+1003,Rider_1003,Queens,2022-08-31
+1004,Rider_1004,Bronx,2022-08-02
+1005,Rider_1005,Brooklyn,2023-10-25
+1006,Rider_1006,Staten Island,2025-08-06
+1007,Rider_1007,Bronx,2024-07-11
+1008,Rider_1008,Queens,2023-02-11
+1009,Rider_1009,Brooklyn,2022-10-13
+1010,Rider_1010,Brooklyn,2024-10-22
+1011,Rider_1011,Staten Island,2024-08-30
+1012,Rider_1012,Manhattan,2022-08-27
+1013,Rider_1013,Queens,2025-02-12
+1014,Rider_1014,Staten Island,2025-07-27
+1015,Rider_1015,Queens,2024-08-31
+1016,Rider_1016,Manhattan,2025-03-23
+1017,Rider_1017,Manhattan,2025-01-29
+1018,Rider_1018,Staten Island,2024-12-20
+1019,Rider_1019,Manhattan,2022-09-29
+1020,Rider_1020,Bronx,2025-04-27
+1021,Rider_1021,Brooklyn,2025-03-04
+1022,Rider_1022,Staten Island,2024-12-11
+1023,Rider_1023,Queens,2024-03-06
+1024,Rider_1024,Bronx,2024-05-14
+1025,Rider_1025,Staten Island,2024-10-07
+1026,Rider_1026,Manhattan,2022-06-21
+1027,Rider_1027,Manhattan,2023-01-28
+1028,Rider_1028,Manhattan,2023-08-29
+1029,Rider_1029,Manhattan,2025-01-18
+1030,Rider_1030,Queens,2024-02-11
+1031,Rider_1031,Bronx,2023-03-30
+1032,Rider_1032,Brooklyn,2024-08-11
+1033,Rider_1033,Queens,2025-01-19
+1034,Rider_1034,Queens,2022-08-08
+1035,Rider_1035,Brooklyn,2025-07-27
+1036,Rider_1036,Brooklyn,2022-12-13
+1037,Rider_1037,Manhattan,2022-10-18
+1038,Rider_1038,Queens,2023-03-10
+1039,Rider_1039,Staten Island,2023-04-08
+1040,Rider_1040,Brooklyn,2024-06-15
+1041,Rider_1041,Brooklyn,2023-03-04
+1042,Rider_1042,Bronx,2022-07-31
+1043,Rider_1043,Staten Island,2022-07-22
+1044,Rider_1044,Staten Island,2022-10-31
+1045,Rider_1045,Brooklyn,2023-11-26
+1046,Rider_1046,Manhattan,2023-12-19
+1047,Rider_1047,Bronx,2024-02-12
+1048,Rider_1048,Staten Island,2023-04-10
+1049,Rider_1049,Brooklyn,2024-08-15
+1050,Rider_1050,Staten Island,2024-09-25
+1051,Rider_1051,Bronx,2022-09-05
+1052,Rider_1052,Bronx,2024-10-28
+1053,Rider_1053,Queens,2024-09-06
+1054,Rider_1054,Brooklyn,2022-10-15
+1055,Rider_1055,Bronx,2025-03-26
+1056,Rider_1056,Queens,2025-03-07
+1057,Rider_1057,Queens,2022-09-17
+1058,Rider_1058,Staten Island,2023-11-29
+1059,Rider_1059,Staten Island,2025-04-28
+1060,Rider_1060,Queens,2024-03-23
+1061,Rider_1061,Staten Island,2023-07-30
+1062,Rider_1062,Bronx,2024-02-20
+1063,Rider_1063,Manhattan,2023-02-16
+1064,Rider_1064,Bronx,2022-08-26
+1065,Rider_1065,Queens,2023-09-08
+1066,Rider_1066,Queens,2022-08-15
+1067,Rider_1067,Bronx,2023-09-14
+1068,Rider_1068,Staten Island,2023-07-19
+1069,Rider_1069,Staten Island,2024-09-02
+1070,Rider_1070,Queens,2024-11-11
+1071,Rider_1071,Brooklyn,2024-05-26
+1072,Rider_1072,Staten Island,2023-08-31
+1073,Rider_1073,Bronx,2024-03-14
+1074,Rider_1074,Staten Island,2024-04-02
+1075,Rider_1075,Bronx,2023-10-08
+1076,Rider_1076,Queens,2025-05-04
+1077,Rider_1077,Staten Island,2024-01-18
+1078,Rider_1078,Bronx,2023-08-24
+1079,Rider_1079,Queens,2023-09-28
+1080,Rider_1080,Brooklyn,2024-03-07
+1081,Rider_1081,Bronx,2024-02-10
+1082,Rider_1082,Brooklyn,2025-04-07
+1083,Rider_1083,Brooklyn,2024-03-23
+1084,Rider_1084,Manhattan,2024-06-27
+1085,Rider_1085,Staten Island,2023-03-16
+1086,Rider_1086,Bronx,2024-05-21
+1087,Rider_1087,Brooklyn,2024-02-28
+1088,Rider_1088,Manhattan,2023-01-21
+1089,Rider_1089,Queens,2023-07-21
+1090,Rider_1090,Bronx,2024-12-24
+1091,Rider_1091,Brooklyn,2023-10-12
+1092,Rider_1092,Staten Island,2025-01-29
+1093,Rider_1093,Manhattan,2024-02-24
+1094,Rider_1094,Brooklyn,2025-03-16
+1095,Rider_1095,Staten Island,2022-09-23
+1096,Rider_1096,Brooklyn,2024-12-18
+1097,Rider_1097,Bronx,2024-04-04
+1098,Rider_1098,Bronx,2025-03-31
+1099,Rider_1099,Bronx,2022-12-23
+1100,Rider_1100,Manhattan,2023-02-02
+1101,Rider_1101,Bronx,2024-06-27
+1102,Rider_1102,Staten Island,2025-07-25
+1103,Rider_1103,Brooklyn,2022-10-25
+1104,Rider_1104,Queens,2022-09-26
+1105,Rider_1105,Staten Island,2023-07-17
+1106,Rider_1106,Staten Island,2023-05-29
+1107,Rider_1107,Bronx,2022-10-15
+1108,Rider_1108,Manhattan,2025-09-11
+1109,Rider_1109,Brooklyn,2025-01-13
+1110,Rider_1110,Manhattan,2022-06-19
+1111,Rider_1111,Brooklyn,2022-12-12
+1112,Rider_1112,Brooklyn,2023-04-26
+1113,Rider_1113,Manhattan,2022-11-22
+1114,Rider_1114,Staten Island,2025-02-26
+1115,Rider_1115,Brooklyn,2023-08-23
+1116,Rider_1116,Manhattan,2025-01-01
+1117,Rider_1117,Brooklyn,2022-10-19
+1118,Rider_1118,Queens,2024-06-27
+1119,Rider_1119,Staten Island,2024-12-16
+1120,Rider_1120,Bronx,2022-09-01
+1121,Rider_1121,Brooklyn,2023-01-25
+1122,Rider_1122,Queens,2022-12-22
+1123,Rider_1123,Bronx,2023-12-12
+1124,Rider_1124,Bronx,2023-01-31
+1125,Rider_1125,Brooklyn,2024-09-09
+1126,Rider_1126,Manhattan,2024-12-11
+1127,Rider_1127,Brooklyn,2023-03-22
+1128,Rider_1128,Queens,2024-03-01
+1129,Rider_1129,Bronx,2024-10-03
+1130,Rider_1130,Brooklyn,2022-06-17
+1131,Rider_1131,Manhattan,2022-08-10
+1132,Rider_1132,Brooklyn,2023-04-01
+1133,Rider_1133,Staten Island,2025-03-27
+1134,Rider_1134,Manhattan,2024-08-25
+1135,Rider_1135,Queens,2025-07-01
+1136,Rider_1136,Bronx,2024-08-29
+1137,Rider_1137,Brooklyn,2022-12-10
+1138,Rider_1138,Manhattan,2023-11-11
+1139,Rider_1139,Staten Island,2022-11-18
+1140,Rider_1140,Manhattan,2023-02-06
+1141,Rider_1141,Staten Island,2023-11-23
+1142,Rider_1142,Queens,2023-07-21
+1143,Rider_1143,Bronx,2024-08-02
+1144,Rider_1144,Queens,2025-08-11
+1145,Rider_1145,Brooklyn,2022-06-25
+1146,Rider_1146,Manhattan,2024-03-29
+1147,Rider_1147,Staten Island,2025-06-01
+1148,Rider_1148,Staten Island,2024-02-22
+1149,Rider_1149,Manhattan,2025-06-21
+1150,Rider_1150,Manhattan,2023-10-18
+1151,Rider_1151,Brooklyn,2023-05-02
+1152,Rider_1152,Queens,2023-07-30
+1153,Rider_1153,Staten Island,2023-10-12
+1154,Rider_1154,Brooklyn,2025-01-02
+1155,Rider_1155,Queens,2024-02-20
+1156,Rider_1156,Brooklyn,2024-05-18
+1157,Rider_1157,Staten Island,2023-05-05
+1158,Rider_1158,Manhattan,2024-03-20
+1159,Rider_1159,Manhattan,2025-01-17
+1160,Rider_1160,Queens,2023-08-03
+1161,Rider_1161,Bronx,2024-11-15
+1162,Rider_1162,Queens,2022-10-17
+1163,Rider_1163,Bronx,2024-12-28
+1164,Rider_1164,Brooklyn,2023-11-24
+1165,Rider_1165,Brooklyn,2022-07-27
+1166,Rider_1166,Staten Island,2024-03-19
+1167,Rider_1167,Bronx,2023-08-09
+1168,Rider_1168,Staten Island,2023-06-19
+1169,Rider_1169,Manhattan,2023-12-12
+1170,Rider_1170,Bronx,2022-12-11
+1171,Rider_1171,Queens,2023-11-16
+1172,Rider_1172,Manhattan,2023-10-31
+1173,Rider_1173,Manhattan,2024-05-16
+1174,Rider_1174,Queens,2024-06-20
+1175,Rider_1175,Manhattan,2022-12-02
+1176,Rider_1176,Bronx,2023-03-19
+1177,Rider_1177,Staten Island,2024-06-01
+1178,Rider_1178,Manhattan,2022-09-24
+1179,Rider_1179,Bronx,2024-09-02
+1180,Rider_1180,Brooklyn,2025-05-08
+1181,Rider_1181,Bronx,2024-04-15
+1182,Rider_1182,Staten Island,2022-08-21
+1183,Rider_1183,Bronx,2024-09-11
+1184,Rider_1184,Queens,2023-04-29
+1185,Rider_1185,Staten Island,2023-12-09
+1186,Rider_1186,Brooklyn,2023-05-01
+1187,Rider_1187,Queens,2023-11-14
+1188,Rider_1188,Bronx,2023-01-07
+1189,Rider_1189,Staten Island,2024-02-25
+1190,Rider_1190,Brooklyn,2023-04-19
+1191,Rider_1191,Queens,2022-06-03
+1192,Rider_1192,Brooklyn,2022-12-23
+1193,Rider_1193,Bronx,2022-07-10
+1194,Rider_1194,Brooklyn,2022-07-29
+1195,Rider_1195,Manhattan,2025-01-06
+1196,Rider_1196,Queens,2023-12-26
+1197,Rider_1197,Brooklyn,2024-03-05
+1198,Rider_1198,Bronx,2024-09-20
+1199,Rider_1199,Bronx,2025-07-20
+1200,Rider_1200,Brooklyn,2024-02-09
+1201,Rider_1201,Bronx,2022-09-04
+1202,Rider_1202,Staten Island,2024-11-14
+1203,Rider_1203,Staten Island,2025-05-21
+1204,Rider_1204,Staten Island,2023-12-13
+1205,Rider_1205,Manhattan,2024-11-21
+1206,Rider_1206,Brooklyn,2023-05-14
+1207,Rider_1207,Manhattan,2024-04-01
+1208,Rider_1208,Bronx,2025-07-22
+1209,Rider_1209,Manhattan,2023-04-13
+1210,Rider_1210,Bronx,2024-05-19
+1211,Rider_1211,Bronx,2025-05-07
+1212,Rider_1212,Queens,2025-08-03
+1213,Rider_1213,Staten Island,2023-02-05
+1214,Rider_1214,Bronx,2023-04-10
+1215,Rider_1215,Queens,2024-08-15
+1216,Rider_1216,Staten Island,2023-09-28
+1217,Rider_1217,Bronx,2022-07-14
+1218,Rider_1218,Bronx,2023-12-23
+1219,Rider_1219,Manhattan,2024-01-04
+1220,Rider_1220,Manhattan,2025-06-20
+1221,Rider_1221,Staten Island,2024-11-11
+1222,Rider_1222,Bronx,2023-01-06
+1223,Rider_1223,Brooklyn,2024-12-11
+1224,Rider_1224,Manhattan,2023-07-06
+1225,Rider_1225,Staten Island,2024-05-27
+1226,Rider_1226,Bronx,2025-02-15
+1227,Rider_1227,Bronx,2024-11-15
+1228,Rider_1228,Brooklyn,2024-10-05
+1229,Rider_1229,Staten Island,2024-08-12
+1230,Rider_1230,Bronx,2023-10-03
+1231,Rider_1231,Manhattan,2024-12-24
+1232,Rider_1232,Brooklyn,2024-09-21
+1233,Rider_1233,Staten Island,2023-02-22
+1234,Rider_1234,Brooklyn,2022-07-24
+1235,Rider_1235,Manhattan,2023-11-10
+1236,Rider_1236,Staten Island,2024-02-06
+1237,Rider_1237,Brooklyn,2025-05-18
+1238,Rider_1238,Queens,2025-04-29
+1239,Rider_1239,Manhattan,2025-01-10
+1240,Rider_1240,Manhattan,2023-06-21
+1241,Rider_1241,Manhattan,2024-06-03
+1242,Rider_1242,Queens,2024-05-16
+1243,Rider_1243,Queens,2024-03-11
+1244,Rider_1244,Bronx,2023-03-27
+1245,Rider_1245,Brooklyn,2023-06-30
+1246,Rider_1246,Bronx,2024-01-14
+1247,Rider_1247,Brooklyn,2023-10-27
+1248,Rider_1248,Queens,2023-07-01
+1249,Rider_1249,Queens,2023-06-06
+1250,Rider_1250,Bronx,2024-10-05
+1251,Rider_1251,Staten Island,2024-07-30
+1252,Rider_1252,Bronx,2024-03-19
+1253,Rider_1253,Brooklyn,2024-06-05
+1254,Rider_1254,Bronx,2023-06-19
+1255,Rider_1255,Manhattan,2022-08-01
+1256,Rider_1256,Brooklyn,2023-10-18
+1257,Rider_1257,Brooklyn,2023-01-25
+1258,Rider_1258,Staten Island,2022-12-12
+1259,Rider_1259,Queens,2024-04-08
+1260,Rider_1260,Brooklyn,2022-07-31
+1261,Rider_1261,Queens,2025-07-27
+1262,Rider_1262,Bronx,2025-02-14
+1263,Rider_1263,Manhattan,2024-04-15
+1264,Rider_1264,Staten Island,2022-11-03
+1265,Rider_1265,Queens,2024-12-09
+1266,Rider_1266,Brooklyn,2024-10-15
+1267,Rider_1267,Queens,2024-11-19
+1268,Rider_1268,Brooklyn,2025-02-23
+1269,Rider_1269,Queens,2025-01-30
+1270,Rider_1270,Brooklyn,2023-06-23
+1271,Rider_1271,Bronx,2024-11-03
+1272,Rider_1272,Brooklyn,2024-09-15
+1273,Rider_1273,Brooklyn,2023-05-06
+1274,Rider_1274,Manhattan,2022-12-21
+1275,Rider_1275,Brooklyn,2022-11-08
+1276,Rider_1276,Manhattan,2023-06-27
+1277,Rider_1277,Staten Island,2024-07-08
+1278,Rider_1278,Manhattan,2023-12-27
+1279,Rider_1279,Bronx,2023-11-16
+1280,Rider_1280,Manhattan,2025-05-29
+1281,Rider_1281,Staten Island,2024-11-09
+1282,Rider_1282,Bronx,2023-07-10
+1283,Rider_1283,Queens,2024-01-29
+1284,Rider_1284,Queens,2024-09-05
+1285,Rider_1285,Manhattan,2025-07-18
+1286,Rider_1286,Manhattan,2024-04-20
+1287,Rider_1287,Staten Island,2024-11-18
+1288,Rider_1288,Staten Island,2022-07-26
+1289,Rider_1289,Brooklyn,2023-06-01
+1290,Rider_1290,Staten Island,2023-08-29
+1291,Rider_1291,Brooklyn,2022-09-12
+1292,Rider_1292,Bronx,2022-08-16
+1293,Rider_1293,Manhattan,2023-01-16
+1294,Rider_1294,Bronx,2023-04-27
+1295,Rider_1295,Staten Island,2024-11-09
+1296,Rider_1296,Bronx,2024-04-18
+1297,Rider_1297,Bronx,2022-06-27
+1298,Rider_1298,Bronx,2023-03-26
+1299,Rider_1299,Staten Island,2025-01-12
+1300,Rider_1300,Bronx,2024-08-07
+1301,Rider_1301,Brooklyn,2025-06-19
+1302,Rider_1302,Staten Island,2023-09-23
+1303,Rider_1303,Bronx,2023-12-25
+1304,Rider_1304,Staten Island,2023-09-01
+1305,Rider_1305,Queens,2023-05-31
+1306,Rider_1306,Brooklyn,2024-10-06
+1307,Rider_1307,Bronx,2023-05-17
+1308,Rider_1308,Queens,2023-02-08
+1309,Rider_1309,Queens,2024-07-20
+1310,Rider_1310,Staten Island,2024-08-11
+1311,Rider_1311,Queens,2025-03-08
+1312,Rider_1312,Brooklyn,2023-09-02
+1313,Rider_1313,Brooklyn,2024-12-03
+1314,Rider_1314,Manhattan,2023-10-12
+1315,Rider_1315,Brooklyn,2025-01-05
+1316,Rider_1316,Queens,2023-10-21
+1317,Rider_1317,Brooklyn,2023-10-14
+1318,Rider_1318,Staten Island,2024-08-11
+1319,Rider_1319,Manhattan,2024-01-19
+1320,Rider_1320,Queens,2022-11-13
+1321,Rider_1321,Manhattan,2023-09-05
+1322,Rider_1322,Queens,2024-12-06
+1323,Rider_1323,Staten Island,2022-09-22
+1324,Rider_1324,Manhattan,2025-02-16
+1325,Rider_1325,Bronx,2022-12-24
+1326,Rider_1326,Queens,2023-10-28
+1327,Rider_1327,Bronx,2024-05-09
+1328,Rider_1328,Manhattan,2025-07-23
+1329,Rider_1329,Bronx,2022-10-16
+1330,Rider_1330,Bronx,2023-05-05
+1331,Rider_1331,Manhattan,2023-11-19
+1332,Rider_1332,Staten Island,2022-08-07
+1333,Rider_1333,Bronx,2023-06-18
+1334,Rider_1334,Bronx,2022-06-19
+1335,Rider_1335,Staten Island,2024-04-13
+1336,Rider_1336,Bronx,2022-08-13
+1337,Rider_1337,Bronx,2023-12-25
+1338,Rider_1338,Bronx,2024-12-25
+1339,Rider_1339,Brooklyn,2025-05-07
+1340,Rider_1340,Staten Island,2022-12-28
+1341,Rider_1341,Bronx,2024-10-02
+1342,Rider_1342,Staten Island,2024-03-12
+1343,Rider_1343,Queens,2025-02-18
+1344,Rider_1344,Queens,2024-04-25
+1345,Rider_1345,Bronx,2023-11-22
+1346,Rider_1346,Staten Island,2024-11-17
+1347,Rider_1347,Staten Island,2024-07-19
+1348,Rider_1348,Staten Island,2025-07-11
+1349,Rider_1349,Brooklyn,2022-11-17
+1350,Rider_1350,Queens,2025-04-03
+1351,Rider_1351,Staten Island,2023-03-15
+1352,Rider_1352,Staten Island,2022-12-06
+1353,Rider_1353,Brooklyn,2024-11-30
+1354,Rider_1354,Brooklyn,2025-08-22
+1355,Rider_1355,Staten Island,2024-04-24
+1356,Rider_1356,Manhattan,2024-11-04
+1357,Rider_1357,Staten Island,2023-09-14
+1358,Rider_1358,Staten Island,2025-06-03
+1359,Rider_1359,Brooklyn,2023-03-04
+1360,Rider_1360,Brooklyn,2024-12-26
+1361,Rider_1361,Staten Island,2023-12-23
+1362,Rider_1362,Staten Island,2024-10-04
+1363,Rider_1363,Staten Island,2025-02-25
+1364,Rider_1364,Brooklyn,2023-09-01
+1365,Rider_1365,Staten Island,2024-12-04
+1366,Rider_1366,Staten Island,2024-09-10
+1367,Rider_1367,Bronx,2025-05-23
+1368,Rider_1368,Manhattan,2024-09-16
+1369,Rider_1369,Queens,2022-12-10
+1370,Rider_1370,Manhattan,2024-02-06
+1371,Rider_1371,Bronx,2023-07-11
+1372,Rider_1372,Queens,2024-12-29
+1373,Rider_1373,Staten Island,2024-05-21
+1374,Rider_1374,Bronx,2022-09-01
+1375,Rider_1375,Staten Island,2023-08-04
+1376,Rider_1376,Brooklyn,2024-03-15
+1377,Rider_1377,Bronx,2023-08-08
+1378,Rider_1378,Brooklyn,2025-07-10
+1379,Rider_1379,Bronx,2023-06-10
+1380,Rider_1380,Bronx,2025-05-18
+1381,Rider_1381,Brooklyn,2025-05-02
+1382,Rider_1382,Queens,2022-12-24
+1383,Rider_1383,Manhattan,2024-07-19
+1384,Rider_1384,Staten Island,2025-07-16
+1385,Rider_1385,Bronx,2023-11-14
+1386,Rider_1386,Staten Island,2022-11-13
+1387,Rider_1387,Brooklyn,2024-03-04
+1388,Rider_1388,Staten Island,2025-08-23
+1389,Rider_1389,Brooklyn,2022-08-29
+1390,Rider_1390,Staten Island,2025-06-22
+1391,Rider_1391,Manhattan,2022-06-13
+1392,Rider_1392,Manhattan,2025-01-28
+1393,Rider_1393,Manhattan,2024-08-13
+1394,Rider_1394,Manhattan,2024-12-31
+1395,Rider_1395,Manhattan,2024-06-11
+1396,Rider_1396,Manhattan,2024-10-23
+1397,Rider_1397,Brooklyn,2025-08-17
+1398,Rider_1398,Bronx,2024-03-21
+1399,Rider_1399,Staten Island,2025-03-28
+1400,Rider_1400,Manhattan,2025-04-18
+1401,Rider_1401,Brooklyn,2023-03-23
+1402,Rider_1402,Brooklyn,2025-02-10
+1403,Rider_1403,Brooklyn,2024-12-12
+1404,Rider_1404,Bronx,2024-03-01
+1405,Rider_1405,Staten Island,2023-05-06
+1406,Rider_1406,Bronx,2024-02-18
+1407,Rider_1407,Queens,2023-08-13
+1408,Rider_1408,Brooklyn,2025-08-11
+1409,Rider_1409,Queens,2024-12-28
+1410,Rider_1410,Manhattan,2024-09-07
+1411,Rider_1411,Manhattan,2023-11-01
+1412,Rider_1412,Bronx,2025-01-31
+1413,Rider_1413,Staten Island,2025-05-04
+1414,Rider_1414,Queens,2025-01-10
+1415,Rider_1415,Staten Island,2025-01-07
+1416,Rider_1416,Bronx,2024-12-30
+1417,Rider_1417,Manhattan,2022-11-02
+1418,Rider_1418,Staten Island,2022-08-27
+1419,Rider_1419,Staten Island,2025-06-01
+1420,Rider_1420,Manhattan,2024-12-17
+1421,Rider_1421,Queens,2022-11-26
+1422,Rider_1422,Manhattan,2022-12-29
+1423,Rider_1423,Staten Island,2023-09-08
+1424,Rider_1424,Queens,2024-02-21
+1425,Rider_1425,Queens,2024-09-02
+1426,Rider_1426,Manhattan,2024-01-28
+1427,Rider_1427,Staten Island,2024-11-01
+1428,Rider_1428,Bronx,2023-06-01
+1429,Rider_1429,Staten Island,2023-03-03
+1430,Rider_1430,Brooklyn,2023-06-15
+1431,Rider_1431,Bronx,2024-12-31
+1432,Rider_1432,Queens,2025-05-23
+1433,Rider_1433,Bronx,2024-08-18
+1434,Rider_1434,Queens,2024-12-11
+1435,Rider_1435,Queens,2023-10-07
+1436,Rider_1436,Bronx,2025-06-26
+1437,Rider_1437,Queens,2025-05-30
+1438,Rider_1438,Queens,2023-05-30
+1439,Rider_1439,Brooklyn,2023-12-22
+1440,Rider_1440,Staten Island,2024-07-02
+1441,Rider_1441,Staten Island,2023-03-03
+1442,Rider_1442,Brooklyn,2022-07-20
+1443,Rider_1443,Bronx,2024-05-28
+1444,Rider_1444,Manhattan,2024-11-22
+1445,Rider_1445,Manhattan,2024-12-14
+1446,Rider_1446,Manhattan,2023-12-16
+1447,Rider_1447,Brooklyn,2024-07-22
+1448,Rider_1448,Brooklyn,2023-09-28
+1449,Rider_1449,Queens,2025-06-12
+1450,Rider_1450,Manhattan,2024-01-05
+1451,Rider_1451,Bronx,2023-01-22
+1452,Rider_1452,Bronx,2022-07-26
+1453,Rider_1453,Manhattan,2023-05-26
+1454,Rider_1454,Manhattan,2022-09-18
+1455,Rider_1455,Manhattan,2022-12-09
+1456,Rider_1456,Brooklyn,2024-11-20
+1457,Rider_1457,Brooklyn,2025-06-21
+1458,Rider_1458,Brooklyn,2024-10-09
+1459,Rider_1459,Staten Island,2023-12-20
+1460,Rider_1460,Bronx,2025-05-19
+1461,Rider_1461,Bronx,2024-03-11
+1462,Rider_1462,Queens,2022-07-09
+1463,Rider_1463,Brooklyn,2025-05-08
+1464,Rider_1464,Staten Island,2024-02-27
+1465,Rider_1465,Staten Island,2025-04-02
+1466,Rider_1466,Bronx,2022-07-06
+1467,Rider_1467,Brooklyn,2022-09-09
+1468,Rider_1468,Queens,2025-06-14
+1469,Rider_1469,Brooklyn,2022-11-13
+1470,Rider_1470,Manhattan,2023-06-18
+1471,Rider_1471,Brooklyn,2024-07-29
+1472,Rider_1472,Manhattan,2022-07-01
+1473,Rider_1473,Manhattan,2022-06-11
+1474,Rider_1474,Queens,2022-09-04
+1475,Rider_1475,Bronx,2023-08-27
+1476,Rider_1476,Brooklyn,2022-12-09
+1477,Rider_1477,Manhattan,2023-09-29
+1478,Rider_1478,Brooklyn,2025-07-26
+1479,Rider_1479,Bronx,2023-01-24
+1480,Rider_1480,Bronx,2025-07-10
+1481,Rider_1481,Staten Island,2025-08-12
+1482,Rider_1482,Bronx,2025-05-24
+1483,Rider_1483,Queens,2024-06-04
+1484,Rider_1484,Manhattan,2025-02-15
+1485,Rider_1485,Staten Island,2024-09-02
+1486,Rider_1486,Queens,2022-09-14
+1487,Rider_1487,Brooklyn,2022-11-28
+1488,Rider_1488,Manhattan,2022-12-01
+1489,Rider_1489,Bronx,2023-01-12
+1490,Rider_1490,Manhattan,2024-07-16
+1491,Rider_1491,Brooklyn,2024-07-29
+1492,Rider_1492,Staten Island,2025-06-17
+1493,Rider_1493,Staten Island,2024-04-18
+1494,Rider_1494,Staten Island,2023-11-12
+1495,Rider_1495,Bronx,2025-01-27
+1496,Rider_1496,Queens,2024-12-22
+1497,Rider_1497,Queens,2022-09-14
+1498,Rider_1498,Manhattan,2024-09-08
+1499,Rider_1499,Bronx,2024-04-09
+1500,Rider_1500,Staten Island,2024-09-26
+1501,Rider_1501,Staten Island,2025-04-21
+1502,Rider_1502,Brooklyn,2023-06-28
+1503,Rider_1503,Brooklyn,2022-07-10
+1504,Rider_1504,Staten Island,2024-03-21
+1505,Rider_1505,Staten Island,2025-02-05
+1506,Rider_1506,Bronx,2025-06-10
+1507,Rider_1507,Queens,2024-09-22
+1508,Rider_1508,Brooklyn,2022-12-18
+1509,Rider_1509,Queens,2023-08-21
+1510,Rider_1510,Bronx,2025-04-27
+1511,Rider_1511,Staten Island,2023-08-18
+1512,Rider_1512,Queens,2024-06-30
+1513,Rider_1513,Staten Island,2023-01-13
+1514,Rider_1514,Staten Island,2022-07-18
+1515,Rider_1515,Manhattan,2025-04-07
+1516,Rider_1516,Queens,2024-11-28
+1517,Rider_1517,Queens,2022-12-04
+1518,Rider_1518,Staten Island,2023-05-11
+1519,Rider_1519,Bronx,2023-01-10
+1520,Rider_1520,Manhattan,2024-09-07
+1521,Rider_1521,Staten Island,2023-10-01
+1522,Rider_1522,Brooklyn,2024-10-24
+1523,Rider_1523,Brooklyn,2024-09-26
+1524,Rider_1524,Manhattan,2025-02-03
+1525,Rider_1525,Bronx,2025-03-13
+1526,Rider_1526,Staten Island,2022-12-05
+1527,Rider_1527,Queens,2023-02-25
+1528,Rider_1528,Manhattan,2023-04-06
+1529,Rider_1529,Bronx,2025-07-30
+1530,Rider_1530,Queens,2025-05-31
+1531,Rider_1531,Brooklyn,2024-09-22
+1532,Rider_1532,Brooklyn,2023-09-29
+1533,Rider_1533,Queens,2022-09-28
+1534,Rider_1534,Manhattan,2023-01-06
+1535,Rider_1535,Brooklyn,2022-07-23
+1536,Rider_1536,Staten Island,2024-06-27
+1537,Rider_1537,Queens,2024-06-07
+1538,Rider_1538,Queens,2024-05-20
+1539,Rider_1539,Brooklyn,2023-07-11
+1540,Rider_1540,Manhattan,2024-01-29
+1541,Rider_1541,Staten Island,2025-03-17
+1542,Rider_1542,Manhattan,2023-07-27
+1543,Rider_1543,Bronx,2024-05-12
+1544,Rider_1544,Bronx,2023-02-02
+1545,Rider_1545,Brooklyn,2022-08-11
+1546,Rider_1546,Brooklyn,2022-12-02
+1547,Rider_1547,Brooklyn,2022-06-06
+1548,Rider_1548,Bronx,2024-11-22
+1549,Rider_1549,Manhattan,2023-06-22
+1550,Rider_1550,Manhattan,2024-04-29
+1551,Rider_1551,Brooklyn,2025-06-04
+1552,Rider_1552,Staten Island,2024-09-04
+1553,Rider_1553,Manhattan,2023-05-15
+1554,Rider_1554,Bronx,2023-04-04
+1555,Rider_1555,Queens,2025-07-25
+1556,Rider_1556,Queens,2023-03-14
+1557,Rider_1557,Queens,2024-07-05
+1558,Rider_1558,Staten Island,2024-05-25
+1559,Rider_1559,Brooklyn,2024-07-01
+1560,Rider_1560,Bronx,2023-06-18
+1561,Rider_1561,Staten Island,2023-06-23
+1562,Rider_1562,Bronx,2023-11-07
+1563,Rider_1563,Bronx,2024-02-29
+1564,Rider_1564,Brooklyn,2024-12-24
+1565,Rider_1565,Queens,2023-03-03
+1566,Rider_1566,Brooklyn,2023-10-13
+1567,Rider_1567,Staten Island,2024-05-17
+1568,Rider_1568,Staten Island,2023-05-03
+1569,Rider_1569,Staten Island,2024-12-18
+1570,Rider_1570,Brooklyn,2023-09-24
+1571,Rider_1571,Bronx,2024-11-27
+1572,Rider_1572,Bronx,2025-05-17
+1573,Rider_1573,Manhattan,2022-09-17
+1574,Rider_1574,Staten Island,2023-04-24
+1575,Rider_1575,Bronx,2023-04-11
+1576,Rider_1576,Manhattan,2025-07-09
+1577,Rider_1577,Bronx,2024-04-29
+1578,Rider_1578,Staten Island,2024-07-20
+1579,Rider_1579,Queens,2022-11-03
+1580,Rider_1580,Staten Island,2024-11-03
+1581,Rider_1581,Brooklyn,2025-03-22
+1582,Rider_1582,Bronx,2024-06-27
+1583,Rider_1583,Bronx,2024-05-22
+1584,Rider_1584,Brooklyn,2024-11-29
+1585,Rider_1585,Brooklyn,2024-10-18
+1586,Rider_1586,Queens,2022-06-13
+1587,Rider_1587,Bronx,2024-01-29
+1588,Rider_1588,Bronx,2023-10-11
+1589,Rider_1589,Queens,2023-01-24
+1590,Rider_1590,Manhattan,2025-06-22
+1591,Rider_1591,Queens,2024-07-20
+1592,Rider_1592,Staten Island,2025-09-07
+1593,Rider_1593,Bronx,2024-01-27
+1594,Rider_1594,Brooklyn,2024-03-22
+1595,Rider_1595,Staten Island,2024-09-26
+1596,Rider_1596,Bronx,2024-12-22
+1597,Rider_1597,Queens,2024-02-18
+1598,Rider_1598,Staten Island,2022-10-21
+1599,Rider_1599,Bronx,2024-05-14
+1600,Rider_1600,Manhattan,2023-09-22
+1601,Rider_1601,Manhattan,2023-12-17
+1602,Rider_1602,Brooklyn,2023-09-14
+1603,Rider_1603,Bronx,2023-06-19
+1604,Rider_1604,Manhattan,2024-12-12
+1605,Rider_1605,Queens,2023-07-22
+1606,Rider_1606,Bronx,2023-04-04
+1607,Rider_1607,Queens,2024-03-10
+1608,Rider_1608,Queens,2025-03-21
+1609,Rider_1609,Manhattan,2025-05-03
+1610,Rider_1610,Bronx,2024-06-08
+1611,Rider_1611,Staten Island,2025-06-26
+1612,Rider_1612,Manhattan,2022-10-18
+1613,Rider_1613,Manhattan,2025-01-29
+1614,Rider_1614,Bronx,2025-03-13
+1615,Rider_1615,Bronx,2025-01-08
+1616,Rider_1616,Queens,2024-11-20
+1617,Rider_1617,Bronx,2022-08-11
+1618,Rider_1618,Queens,2022-09-15
+1619,Rider_1619,Manhattan,2025-05-01
+1620,Rider_1620,Brooklyn,2024-10-30
+1621,Rider_1621,Staten Island,2022-10-17
+1622,Rider_1622,Manhattan,2024-02-05
+1623,Rider_1623,Bronx,2024-10-10
+1624,Rider_1624,Staten Island,2023-02-28
+1625,Rider_1625,Brooklyn,2023-07-21
+1626,Rider_1626,Brooklyn,2023-10-19
+1627,Rider_1627,Queens,2024-06-02
+1628,Rider_1628,Staten Island,2023-07-29
+1629,Rider_1629,Queens,2023-06-25
+1630,Rider_1630,Manhattan,2023-05-08
+1631,Rider_1631,Staten Island,2025-01-01
+1632,Rider_1632,Manhattan,2024-02-04
+1633,Rider_1633,Queens,2023-10-06
+1634,Rider_1634,Staten Island,2022-12-09
+1635,Rider_1635,Queens,2023-10-12
+1636,Rider_1636,Staten Island,2024-08-30
+1637,Rider_1637,Queens,2023-01-13
+1638,Rider_1638,Brooklyn,2022-10-17
+1639,Rider_1639,Queens,2024-10-03
+1640,Rider_1640,Brooklyn,2024-08-25
+1641,Rider_1641,Queens,2025-08-16
+1642,Rider_1642,Staten Island,2025-07-13
+1643,Rider_1643,Staten Island,2025-05-22
+1644,Rider_1644,Staten Island,2022-09-12
+1645,Rider_1645,Bronx,2024-10-18
+1646,Rider_1646,Manhattan,2024-03-29
+1647,Rider_1647,Staten Island,2023-02-28
+1648,Rider_1648,Brooklyn,2025-03-26
+1649,Rider_1649,Staten Island,2025-08-14
+1650,Rider_1650,Bronx,2022-12-01
+1651,Rider_1651,Brooklyn,2025-04-17
+1652,Rider_1652,Bronx,2025-07-17
+1653,Rider_1653,Brooklyn,2023-03-20
+1654,Rider_1654,Queens,2022-11-24
+1655,Rider_1655,Manhattan,2022-07-28
+1656,Rider_1656,Manhattan,2023-04-04
+1657,Rider_1657,Bronx,2025-02-01
+1658,Rider_1658,Manhattan,2025-07-03
+1659,Rider_1659,Bronx,2024-04-30
+1660,Rider_1660,Bronx,2022-08-22
+1661,Rider_1661,Bronx,2023-02-07
+1662,Rider_1662,Manhattan,2024-08-04
+1663,Rider_1663,Bronx,2024-11-13
+1664,Rider_1664,Manhattan,2022-12-27
+1665,Rider_1665,Bronx,2024-08-24
+1666,Rider_1666,Staten Island,2024-01-30
+1667,Rider_1667,Bronx,2023-08-21
+1668,Rider_1668,Brooklyn,2023-09-03
+1669,Rider_1669,Bronx,2025-01-23
+1670,Rider_1670,Queens,2023-09-15
+1671,Rider_1671,Bronx,2023-06-05
+1672,Rider_1672,Brooklyn,2024-11-16
+1673,Rider_1673,Brooklyn,2024-12-09
+1674,Rider_1674,Manhattan,2022-10-15
+1675,Rider_1675,Staten Island,2023-06-02
+1676,Rider_1676,Bronx,2024-11-28
+1677,Rider_1677,Manhattan,2022-12-01
+1678,Rider_1678,Staten Island,2023-09-15
+1679,Rider_1679,Bronx,2024-03-15
+1680,Rider_1680,Queens,2024-06-18
+1681,Rider_1681,Bronx,2023-11-19
+1682,Rider_1682,Brooklyn,2024-08-10
+1683,Rider_1683,Brooklyn,2024-12-06
+1684,Rider_1684,Queens,2023-10-23
+1685,Rider_1685,Manhattan,2024-02-20
+1686,Rider_1686,Staten Island,2025-02-26
+1687,Rider_1687,Bronx,2025-06-01
+1688,Rider_1688,Brooklyn,2024-12-02
+1689,Rider_1689,Manhattan,2025-03-30
+1690,Rider_1690,Queens,2022-10-30
+1691,Rider_1691,Brooklyn,2025-03-25
+1692,Rider_1692,Queens,2023-09-07
+1693,Rider_1693,Bronx,2025-07-11
+1694,Rider_1694,Staten Island,2023-02-26
+1695,Rider_1695,Brooklyn,2025-08-30
+1696,Rider_1696,Brooklyn,2023-09-03
+1697,Rider_1697,Bronx,2022-09-13
+1698,Rider_1698,Manhattan,2022-11-09
+1699,Rider_1699,Staten Island,2023-05-17
+1700,Rider_1700,Brooklyn,2023-08-08
+1701,Rider_1701,Staten Island,2024-09-29
+1702,Rider_1702,Brooklyn,2022-10-18
+1703,Rider_1703,Staten Island,2025-07-30
+1704,Rider_1704,Queens,2022-08-26
+1705,Rider_1705,Brooklyn,2022-11-30
+1706,Rider_1706,Staten Island,2023-06-03
+1707,Rider_1707,Manhattan,2022-10-07
+1708,Rider_1708,Queens,2024-03-31
+1709,Rider_1709,Queens,2022-10-27
+1710,Rider_1710,Manhattan,2025-02-09
+1711,Rider_1711,Staten Island,2024-09-29
+1712,Rider_1712,Bronx,2024-02-18
+1713,Rider_1713,Manhattan,2023-08-20
+1714,Rider_1714,Staten Island,2024-10-31
+1715,Rider_1715,Manhattan,2023-03-21
+1716,Rider_1716,Manhattan,2025-08-10
+1717,Rider_1717,Brooklyn,2023-02-05
+1718,Rider_1718,Staten Island,2024-10-25
+1719,Rider_1719,Bronx,2025-01-03
+1720,Rider_1720,Brooklyn,2025-01-30
+1721,Rider_1721,Manhattan,2025-04-14
+1722,Rider_1722,Manhattan,2024-07-28
+1723,Rider_1723,Manhattan,2025-02-08
+1724,Rider_1724,Staten Island,2024-11-05
+1725,Rider_1725,Staten Island,2024-11-06
+1726,Rider_1726,Brooklyn,2022-08-09
+1727,Rider_1727,Bronx,2024-02-15
+1728,Rider_1728,Brooklyn,2024-10-22
+1729,Rider_1729,Queens,2025-07-10
+1730,Rider_1730,Manhattan,2023-09-14
+1731,Rider_1731,Manhattan,2022-08-30
+1732,Rider_1732,Manhattan,2023-11-12
+1733,Rider_1733,Brooklyn,2024-03-22
+1734,Rider_1734,Brooklyn,2024-06-08
+1735,Rider_1735,Manhattan,2024-05-26
+1736,Rider_1736,Brooklyn,2024-10-19
+1737,Rider_1737,Staten Island,2022-12-09
+1738,Rider_1738,Staten Island,2022-10-16
+1739,Rider_1739,Brooklyn,2023-05-11
+1740,Rider_1740,Manhattan,2025-03-05
+1741,Rider_1741,Brooklyn,2023-10-16
+1742,Rider_1742,Brooklyn,2022-12-20
+1743,Rider_1743,Brooklyn,2023-12-25
+1744,Rider_1744,Queens,2022-12-09
+1745,Rider_1745,Staten Island,2022-06-05
+1746,Rider_1746,Bronx,2023-04-07
+1747,Rider_1747,Bronx,2023-12-01
+1748,Rider_1748,Queens,2022-07-26
+1749,Rider_1749,Brooklyn,2023-08-17
+1750,Rider_1750,Queens,2024-10-17
+1751,Rider_1751,Queens,2024-01-06
+1752,Rider_1752,Manhattan,2024-06-21
+1753,Rider_1753,Staten Island,2023-05-26
+1754,Rider_1754,Bronx,2024-08-27
+1755,Rider_1755,Brooklyn,2022-06-30
+1756,Rider_1756,Bronx,2022-09-16
+1757,Rider_1757,Bronx,2024-09-21
+1758,Rider_1758,Staten Island,2024-05-17
+1759,Rider_1759,Bronx,2024-11-07
+1760,Rider_1760,Bronx,2025-01-15
+1761,Rider_1761,Queens,2024-11-09
+1762,Rider_1762,Staten Island,2024-06-01
+1763,Rider_1763,Manhattan,2024-01-27
+1764,Rider_1764,Brooklyn,2023-08-31
+1765,Rider_1765,Bronx,2024-02-05
+1766,Rider_1766,Brooklyn,2024-04-28
+1767,Rider_1767,Manhattan,2024-04-04
+1768,Rider_1768,Brooklyn,2023-11-25
+1769,Rider_1769,Manhattan,2024-10-04
+1770,Rider_1770,Queens,2024-11-13
+1771,Rider_1771,Bronx,2023-03-05
+1772,Rider_1772,Manhattan,2023-12-04
+1773,Rider_1773,Brooklyn,2022-09-19
+1774,Rider_1774,Bronx,2023-06-20
+1775,Rider_1775,Queens,2024-06-30
+1776,Rider_1776,Bronx,2024-04-24
+1777,Rider_1777,Manhattan,2023-07-10
+1778,Rider_1778,Queens,2022-06-22
+1779,Rider_1779,Brooklyn,2024-04-08
+1780,Rider_1780,Queens,2024-02-01
+1781,Rider_1781,Queens,2022-06-08
+1782,Rider_1782,Staten Island,2024-05-02
+1783,Rider_1783,Queens,2023-11-11
+1784,Rider_1784,Queens,2024-01-23
+1785,Rider_1785,Bronx,2024-03-18
+1786,Rider_1786,Brooklyn,2022-11-13
+1787,Rider_1787,Bronx,2024-09-26
+1788,Rider_1788,Bronx,2023-10-09
+1789,Rider_1789,Manhattan,2024-01-11
+1790,Rider_1790,Bronx,2023-08-03
+1791,Rider_1791,Staten Island,2024-07-13
+1792,Rider_1792,Staten Island,2022-11-10
+1793,Rider_1793,Manhattan,2023-06-01
+1794,Rider_1794,Brooklyn,2022-08-11
+1795,Rider_1795,Brooklyn,2024-03-16
+1796,Rider_1796,Bronx,2023-02-24
+1797,Rider_1797,Bronx,2023-07-20
+1798,Rider_1798,Bronx,2025-03-12
+1799,Rider_1799,Brooklyn,2024-04-05
+1800,Rider_1800,Queens,2025-05-19
+1801,Rider_1801,Staten Island,2022-06-06
+1802,Rider_1802,Queens,2025-02-06
+1803,Rider_1803,Queens,2023-12-22
+1804,Rider_1804,Brooklyn,2023-07-12
+1805,Rider_1805,Queens,2022-06-26
+1806,Rider_1806,Manhattan,2025-03-25
+1807,Rider_1807,Bronx,2025-02-10
+1808,Rider_1808,Manhattan,2023-06-25
+1809,Rider_1809,Staten Island,2024-05-10
+1810,Rider_1810,Bronx,2023-12-23
+1811,Rider_1811,Queens,2024-06-23
+1812,Rider_1812,Staten Island,2022-10-24
+1813,Rider_1813,Bronx,2024-07-24
+1814,Rider_1814,Queens,2023-11-08
+1815,Rider_1815,Manhattan,2022-06-13
+1816,Rider_1816,Bronx,2024-11-19
+1817,Rider_1817,Queens,2023-06-19
+1818,Rider_1818,Manhattan,2023-12-08
+1819,Rider_1819,Staten Island,2024-11-03
+1820,Rider_1820,Staten Island,2022-06-19
+1821,Rider_1821,Staten Island,2023-12-27
+1822,Rider_1822,Staten Island,2024-06-20
+1823,Rider_1823,Brooklyn,2025-02-28
+1824,Rider_1824,Bronx,2023-07-24
+1825,Rider_1825,Bronx,2023-07-24
+1826,Rider_1826,Brooklyn,2022-09-30
+1827,Rider_1827,Queens,2023-08-06
+1828,Rider_1828,Queens,2022-07-14
+1829,Rider_1829,Staten Island,2023-06-16
+1830,Rider_1830,Manhattan,2022-10-23
+1831,Rider_1831,Queens,2023-05-29
+1832,Rider_1832,Manhattan,2025-05-09
+1833,Rider_1833,Bronx,2025-05-24
+1834,Rider_1834,Manhattan,2023-05-21
+1835,Rider_1835,Bronx,2024-08-08
+1836,Rider_1836,Brooklyn,2025-08-31
+1837,Rider_1837,Brooklyn,2025-08-08
+1838,Rider_1838,Staten Island,2024-09-03
+1839,Rider_1839,Queens,2025-07-26
+1840,Rider_1840,Staten Island,2023-07-03
+1841,Rider_1841,Bronx,2024-10-27
+1842,Rider_1842,Staten Island,2023-09-06
+1843,Rider_1843,Manhattan,2024-08-16
+1844,Rider_1844,Bronx,2022-12-04
+1845,Rider_1845,Brooklyn,2024-06-01
+1846,Rider_1846,Queens,2023-08-03
+1847,Rider_1847,Bronx,2024-10-05
+1848,Rider_1848,Bronx,2023-01-23
+1849,Rider_1849,Manhattan,2024-07-10
+1850,Rider_1850,Queens,2024-06-27
+1851,Rider_1851,Brooklyn,2022-10-14
+1852,Rider_1852,Bronx,2024-07-31
+1853,Rider_1853,Bronx,2022-11-18
+1854,Rider_1854,Manhattan,2022-11-06
+1855,Rider_1855,Staten Island,2022-12-18
+1856,Rider_1856,Brooklyn,2025-01-17
+1857,Rider_1857,Queens,2024-01-04
+1858,Rider_1858,Bronx,2024-10-23
+1859,Rider_1859,Bronx,2023-06-06
+1860,Rider_1860,Brooklyn,2022-09-11
+1861,Rider_1861,Staten Island,2025-02-26
+1862,Rider_1862,Bronx,2025-07-23
+1863,Rider_1863,Brooklyn,2025-01-31
+1864,Rider_1864,Manhattan,2024-08-06
+1865,Rider_1865,Staten Island,2024-03-19
+1866,Rider_1866,Queens,2024-10-29
+1867,Rider_1867,Bronx,2024-06-02
+1868,Rider_1868,Brooklyn,2023-07-28
+1869,Rider_1869,Manhattan,2023-12-24
+1870,Rider_1870,Queens,2022-11-18
+1871,Rider_1871,Brooklyn,2022-11-20
+1872,Rider_1872,Brooklyn,2024-03-24
+1873,Rider_1873,Queens,2023-08-27
+1874,Rider_1874,Manhattan,2023-05-16
+1875,Rider_1875,Manhattan,2023-10-07
+1876,Rider_1876,Staten Island,2024-02-10
+1877,Rider_1877,Bronx,2025-03-24
+1878,Rider_1878,Queens,2025-06-21
+1879,Rider_1879,Queens,2024-12-05
+1880,Rider_1880,Queens,2022-06-06
+1881,Rider_1881,Manhattan,2023-03-15
+1882,Rider_1882,Bronx,2025-08-13
+1883,Rider_1883,Staten Island,2024-01-29
+1884,Rider_1884,Brooklyn,2023-08-31
+1885,Rider_1885,Brooklyn,2025-03-26
+1886,Rider_1886,Queens,2024-02-14
+1887,Rider_1887,Bronx,2023-06-11
+1888,Rider_1888,Manhattan,2023-08-21
+1889,Rider_1889,Bronx,2024-09-12
+1890,Rider_1890,Bronx,2025-07-04
+1891,Rider_1891,Manhattan,2024-08-19
+1892,Rider_1892,Queens,2025-06-24
+1893,Rider_1893,Bronx,2025-01-14
+1894,Rider_1894,Brooklyn,2024-09-26
+1895,Rider_1895,Manhattan,2024-08-17
+1896,Rider_1896,Staten Island,2025-02-03
+1897,Rider_1897,Queens,2023-07-21
+1898,Rider_1898,Manhattan,2024-05-26
+1899,Rider_1899,Staten Island,2023-08-28
+1900,Rider_1900,Staten Island,2022-10-28
+1901,Rider_1901,Bronx,2024-06-28
+1902,Rider_1902,Bronx,2024-07-18
+1903,Rider_1903,Bronx,2025-01-28
+1904,Rider_1904,Manhattan,2024-07-02
+1905,Rider_1905,Manhattan,2025-02-26
+1906,Rider_1906,Queens,2022-08-15
+1907,Rider_1907,Bronx,2024-01-20
+1908,Rider_1908,Staten Island,2023-01-11
+1909,Rider_1909,Brooklyn,2022-09-21
+1910,Rider_1910,Queens,2023-02-06
+1911,Rider_1911,Manhattan,2024-09-18
+1912,Rider_1912,Queens,2024-05-14
+1913,Rider_1913,Queens,2025-06-11
+1914,Rider_1914,Queens,2022-10-03
+1915,Rider_1915,Queens,2025-09-11
+1916,Rider_1916,Brooklyn,2025-05-28
+1917,Rider_1917,Bronx,2025-05-06
+1918,Rider_1918,Staten Island,2024-10-31
+1919,Rider_1919,Queens,2022-06-30
+1920,Rider_1920,Queens,2023-03-08
+1921,Rider_1921,Queens,2024-12-10
+1922,Rider_1922,Bronx,2023-06-03
+1923,Rider_1923,Manhattan,2023-10-08
+1924,Rider_1924,Manhattan,2025-04-14
+1925,Rider_1925,Brooklyn,2024-05-18
+1926,Rider_1926,Manhattan,2025-03-13
+1927,Rider_1927,Queens,2024-01-27
+1928,Rider_1928,Queens,2023-06-10
+1929,Rider_1929,Queens,2024-02-29
+1930,Rider_1930,Brooklyn,2025-04-14
+1931,Rider_1931,Queens,2022-09-24
+1932,Rider_1932,Manhattan,2022-07-18
+1933,Rider_1933,Bronx,2022-09-07
+1934,Rider_1934,Bronx,2023-07-10
+1935,Rider_1935,Staten Island,2024-04-15
+1936,Rider_1936,Manhattan,2024-11-19
+1937,Rider_1937,Queens,2023-10-16
+1938,Rider_1938,Bronx,2024-11-10
+1939,Rider_1939,Manhattan,2023-02-13
+1940,Rider_1940,Bronx,2024-09-21
+1941,Rider_1941,Queens,2022-09-29
+1942,Rider_1942,Bronx,2024-08-18
+1943,Rider_1943,Staten Island,2025-02-02
+1944,Rider_1944,Staten Island,2022-07-24
+1945,Rider_1945,Bronx,2025-03-15
+1946,Rider_1946,Manhattan,2024-07-23
+1947,Rider_1947,Manhattan,2023-01-27
+1948,Rider_1948,Manhattan,2023-09-26
+1949,Rider_1949,Bronx,2025-03-09
+1950,Rider_1950,Manhattan,2022-12-04
+1951,Rider_1951,Queens,2024-03-17
+1952,Rider_1952,Staten Island,2023-02-17
+1953,Rider_1953,Queens,2025-01-08
+1954,Rider_1954,Manhattan,2023-10-04
+1955,Rider_1955,Queens,2023-08-05
+1956,Rider_1956,Manhattan,2023-01-25
+1957,Rider_1957,Bronx,2023-03-31
+1958,Rider_1958,Queens,2023-03-25
+1959,Rider_1959,Bronx,2022-08-15
+1960,Rider_1960,Bronx,2025-02-23
+1961,Rider_1961,Brooklyn,2024-03-03
+1962,Rider_1962,Manhattan,2024-09-04
+1963,Rider_1963,Staten Island,2023-03-10
+1964,Rider_1964,Manhattan,2024-01-12
+1965,Rider_1965,Staten Island,2022-08-11
+1966,Rider_1966,Manhattan,2024-05-03
+1967,Rider_1967,Bronx,2023-12-27
+1968,Rider_1968,Queens,2025-02-24
+1969,Rider_1969,Queens,2024-11-08
+1970,Rider_1970,Brooklyn,2022-06-12
+1971,Rider_1971,Staten Island,2022-10-19
+1972,Rider_1972,Staten Island,2022-06-17
+1973,Rider_1973,Staten Island,2025-05-22
+1974,Rider_1974,Bronx,2023-02-08
+1975,Rider_1975,Staten Island,2023-09-08
+1976,Rider_1976,Queens,2023-06-11
+1977,Rider_1977,Bronx,2025-02-05
+1978,Rider_1978,Manhattan,2023-11-02
+1979,Rider_1979,Staten Island,2022-08-29
+1980,Rider_1980,Staten Island,2024-05-20
+1981,Rider_1981,Manhattan,2024-08-12
+1982,Rider_1982,Staten Island,2024-08-04
+1983,Rider_1983,Manhattan,2024-02-20
+1984,Rider_1984,Bronx,2025-09-11
+1985,Rider_1985,Queens,2022-08-15
+1986,Rider_1986,Manhattan,2024-12-12
+1987,Rider_1987,Brooklyn,2023-07-05
+1988,Rider_1988,Manhattan,2025-01-25
+1989,Rider_1989,Staten Island,2025-05-30
+1990,Rider_1990,Bronx,2025-07-22
+1991,Rider_1991,Bronx,2024-08-05
+1992,Rider_1992,Manhattan,2022-12-12
+1993,Rider_1993,Queens,2023-01-14
+1994,Rider_1994,Brooklyn,2023-09-04
+1995,Rider_1995,Bronx,2024-02-08
+1996,Rider_1996,Staten Island,2025-04-10
+1997,Rider_1997,Staten Island,2022-08-03
+1998,Rider_1998,Queens,2022-11-12
+1999,Rider_1999,Bronx,2022-06-27
+2000,Rider_2000,Manhattan,2025-03-08

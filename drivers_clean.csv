@@ -1,0 +1,201 @@
+driver_id,name,city,join_date,rating,status
+1,Driver_1,Bronx,2024-09-01,3.1,active
+2,Driver_2,Staten Island,2023-07-17,4.8,active
+3,Driver_3,Queens,2024-05-25,3.1,active
+4,Driver_4,Staten Island,2025-01-21,4.2,inactive
+5,Driver_5,Staten Island,2023-05-24,3.9,active
+6,Driver_6,Brooklyn,2024-08-31,4.3,active
+7,Driver_7,Queens,2023-07-20,3.7,active
+8,Driver_8,Queens,2023-05-04,3.3,inactive
+9,Driver_9,Queens,2023-07-06,5.0,inactive
+10,Driver_10,Staten Island,2023-11-22,4.7,active
+11,Driver_11,Bronx,2024-04-08,4.7,active
+12,Driver_12,Queens,2023-12-15,3.5,active
+13,Driver_13,Staten Island,2025-02-09,3.1,active
+14,Driver_14,Brooklyn,2024-10-21,3.6,active
+15,Driver_15,Bronx,2025-02-02,4.1,active
+16,Driver_16,Brooklyn,2024-02-07,3.7,active
+17,Driver_17,Bronx,2023-12-12,4.7,active
+18,Driver_18,Staten Island,2024-05-25,3.5,active
+19,Driver_19,Manhattan,2023-05-27,4.9,active
+20,Driver_20,Bronx,2023-05-28,3.9,active
+21,Driver_21,Brooklyn,2025-05-13,4.7,active
+22,Driver_22,Staten Island,2024-12-11,3.4,active
+23,Driver_23,Bronx,2025-03-30,3.8,active
+24,Driver_24,Manhattan,2024-05-03,4.4,active
+25,Driver_25,Manhattan,2024-10-01,3.3,active
+26,Driver_26,Queens,2024-07-04,3.3,active
+27,Driver_27,Queens,2023-12-04,4.9,active
+28,Driver_28,Brooklyn,2025-05-21,4.4,active
+29,Driver_29,Bronx,2024-10-02,3.1,inactive
+30,Driver_30,Bronx,2025-02-17,3.8,active
+31,Driver_31,Queens,2024-04-17,3.9,active
+32,Driver_32,Bronx,2023-05-31,4.5,inactive
+33,Driver_33,Bronx,2024-02-19,3.5,active
+34,Driver_34,Manhattan,2023-10-25,3.4,inactive
+35,Driver_35,Queens,2024-09-02,3.2,active
+36,Driver_36,Staten Island,2023-09-20,3.9,active
+37,Driver_37,Queens,2025-02-02,4.4,active
+38,Driver_38,Staten Island,2023-05-24,3.1,active
+39,Driver_39,Manhattan,2023-12-12,4.8,active
+40,Driver_40,Brooklyn,2024-09-15,3.9,inactive
+41,Driver_41,Bronx,2024-07-25,3.5,active
+42,Driver_42,Manhattan,2025-05-30,3.2,active
+43,Driver_43,Bronx,2023-01-02,3.4,active
+44,Driver_44,Brooklyn,2025-06-15,4.9,active
+45,Driver_45,Brooklyn,2023-10-31,4.3,active
+46,Driver_46,Manhattan,2023-09-11,4.0,active
+47,Driver_47,Brooklyn,2024-10-13,4.3,active
+48,Driver_48,Staten Island,2024-03-28,3.9,active
+49,Driver_49,Brooklyn,2023-02-06,4.5,active
+50,Driver_50,Bronx,2023-06-09,3.1,active
+51,Driver_51,Bronx,2023-01-09,4.1,active
+52,Driver_52,Bronx,2023-08-21,3.3,active
+53,Driver_53,Bronx,2023-04-09,3.2,active
+54,Driver_54,Staten Island,2024-10-20,3.7,inactive
+55,Driver_55,Queens,2025-03-26,3.2,active
+56,Driver_56,Manhattan,2023-07-27,3.2,active
+57,Driver_57,Bronx,2023-05-11,3.6,active
+58,Driver_58,Brooklyn,2024-02-08,5.0,active
+59,Driver_59,Bronx,2023-06-01,3.4,active
+60,Driver_60,Brooklyn,2023-02-23,3.0,active
+61,Driver_61,Brooklyn,2023-04-30,4.5,active
+62,Driver_62,Bronx,2024-11-03,4.6,active
+63,Driver_63,Staten Island,2024-09-19,3.7,active
+64,Driver_64,Brooklyn,2024-08-09,3.9,inactive
+65,Driver_65,Brooklyn,2024-09-16,4.3,active
+66,Driver_66,Bronx,2024-02-24,3.1,active
+67,Driver_67,Brooklyn,2024-02-26,4.9,active
+68,Driver_68,Brooklyn,2023-04-14,4.8,active
+69,Driver_69,Bronx,2025-05-01,3.5,active
+70,Driver_70,Bronx,2023-09-11,3.0,active
+71,Driver_71,Manhattan,2023-08-15,4.9,active
+72,Driver_72,Staten Island,2023-04-22,4.0,active
+73,Driver_73,Staten Island,2024-05-24,4.1,active
+74,Driver_74,Brooklyn,2024-04-17,4.4,inactive
+75,Driver_75,Staten Island,2023-04-09,4.2,active
+76,Driver_76,Brooklyn,2023-06-02,4.9,active
+77,Driver_77,Manhattan,2025-05-10,4.9,active
+78,Driver_78,Bronx,2025-06-14,4.7,active
+79,Driver_79,Bronx,2025-05-27,4.3,active
+80,Driver_80,Bronx,2023-12-04,4.6,active
+81,Driver_81,Staten Island,2024-12-06,4.4,active
+82,Driver_82,Manhattan,2025-04-01,4.1,active
+83,Driver_83,Staten Island,2023-06-12,3.3,inactive
+84,Driver_84,Staten Island,2024-12-20,4.6,active
+85,Driver_85,Manhattan,2024-11-11,4.6,inactive
+86,Driver_86,Manhattan,2023-06-10,4.3,active
+87,Driver_87,Manhattan,2024-08-02,4.6,active
+88,Driver_88,Manhattan,2025-03-11,4.3,active
+89,Driver_89,Bronx,2024-02-02,3.4,active
+90,Driver_90,Queens,2023-10-04,3.5,active
+91,Driver_91,Queens,2025-03-26,3.4,active
+92,Driver_92,Manhattan,2024-05-18,3.8,active
+93,Driver_93,Queens,2025-06-14,3.1,inactive
+94,Driver_94,Queens,2024-01-27,4.2,active
+95,Driver_95,Manhattan,2023-05-15,3.7,active
+96,Driver_96,Queens,2023-07-14,4.3,active
+97,Driver_97,Staten Island,2024-02-05,3.8,active
+98,Driver_98,Brooklyn,2024-10-01,4.4,active
+99,Driver_99,Brooklyn,2023-02-02,3.7,active
+100,Driver_100,Manhattan,2024-11-18,3.5,active
+101,Driver_101,Bronx,2024-04-04,4.0,active
+102,Driver_102,Manhattan,2025-06-01,4.4,active
+103,Driver_103,Bronx,2024-04-14,3.7,active
+104,Driver_104,Brooklyn,2024-01-10,4.9,active
+105,Driver_105,Manhattan,2023-01-22,3.1,active
+106,Driver_106,Staten Island,2025-01-19,3.8,active
+107,Driver_107,Queens,2024-10-31,4.9,active
+108,Driver_108,Bronx,2023-02-07,4.1,active
+109,Driver_109,Queens,2023-08-18,3.8,active
+110,Driver_110,Queens,2023-12-31,4.1,active
+111,Driver_111,Manhattan,2024-07-16,4.2,active
+112,Driver_112,Queens,2024-03-13,4.5,active
+113,Driver_113,Staten Island,2025-02-14,3.3,active
+114,Driver_114,Queens,2023-10-10,3.5,active
+115,Driver_115,Manhattan,2023-01-27,4.2,active
+116,Driver_116,Staten Island,2023-08-14,4.7,inactive
+117,Driver_117,Brooklyn,2023-10-04,4.1,active
+118,Driver_118,Queens,2025-03-08,3.5,inactive
+119,Driver_119,Manhattan,2024-08-31,4.4,active
+120,Driver_120,Brooklyn,2023-10-11,4.5,active
+121,Driver_121,Brooklyn,2025-05-28,3.5,active
+122,Driver_122,Bronx,2024-04-25,3.8,active
+123,Driver_123,Staten Island,2024-03-28,4.1,active
+124,Driver_124,Queens,2025-04-08,4.0,active
+125,Driver_125,Manhattan,2025-03-26,3.8,active
+126,Driver_126,Bronx,2024-10-20,3.6,active
+127,Driver_127,Staten Island,2024-05-30,3.2,active
+128,Driver_128,Bronx,2024-06-30,3.1,inactive
+129,Driver_129,Staten Island,2023-07-11,4.9,active
+130,Driver_130,Staten Island,2023-02-18,4.7,active
+131,Driver_131,Queens,2024-05-26,3.7,active
+132,Driver_132,Staten Island,2023-01-17,4.9,active
+133,Driver_133,Bronx,2023-06-21,4.4,active
+134,Driver_134,Staten Island,2023-08-08,4.0,active
+135,Driver_135,Queens,2023-06-07,4.0,active
+136,Driver_136,Queens,2024-04-21,3.2,active
+137,Driver_137,Bronx,2023-02-15,3.2,active
+138,Driver_138,Brooklyn,2024-01-08,4.2,active
+139,Driver_139,Brooklyn,2024-06-01,4.1,inactive
+140,Driver_140,Staten Island,2023-04-09,3.4,active
+141,Driver_141,Manhattan,2025-06-10,4.9,active
+142,Driver_142,Staten Island,2025-01-14,4.6,inactive
+143,Driver_143,Bronx,2023-02-06,3.2,active
+144,Driver_144,Bronx,2023-10-07,4.9,inactive
+145,Driver_145,Bronx,2023-12-15,4.9,active
+146,Driver_146,Bronx,2024-05-11,5.0,active
+147,Driver_147,Bronx,2023-10-29,3.1,active
+148,Driver_148,Queens,2023-06-30,4.5,active
+149,Driver_149,Brooklyn,2024-08-29,4.1,active
+150,Driver_150,Bronx,2023-04-09,4.4,active
+151,Driver_151,Manhattan,2024-11-30,4.9,active
+152,Driver_152,Manhattan,2023-04-26,4.4,active
+153,Driver_153,Manhattan,2023-07-10,4.7,active
+154,Driver_154,Manhattan,2023-09-10,4.7,active
+155,Driver_155,Queens,2023-06-10,4.7,active
+156,Driver_156,Manhattan,2023-09-13,3.9,inactive
+157,Driver_157,Bronx,2023-11-19,3.4,active
+158,Driver_158,Staten Island,2023-05-08,3.8,active
+159,Driver_159,Manhattan,2023-01-18,4.8,active
+160,Driver_160,Queens,2025-03-03,3.3,active
+161,Driver_161,Queens,2025-01-04,4.0,active
+162,Driver_162,Manhattan,2024-07-19,3.5,active
+163,Driver_163,Staten Island,2024-07-23,4.2,active
+164,Driver_164,Manhattan,2023-11-19,4.7,active
+165,Driver_165,Queens,2025-05-21,4.8,active
+166,Driver_166,Brooklyn,2024-11-16,3.5,active
+167,Driver_167,Bronx,2025-03-02,4.8,active
+168,Driver_168,Queens,2024-09-17,4.2,active
+169,Driver_169,Manhattan,2023-10-15,3.7,active
+170,Driver_170,Bronx,2025-05-03,4.4,active
+171,Driver_171,Manhattan,2024-10-24,4.0,active
+172,Driver_172,Manhattan,2024-09-30,3.8,active
+173,Driver_173,Brooklyn,2023-06-04,4.4,active
+174,Driver_174,Bronx,2024-05-04,3.5,active
+175,Driver_175,Bronx,2024-01-21,3.7,active
+176,Driver_176,Brooklyn,2025-02-23,3.9,active
+177,Driver_177,Queens,2023-04-14,3.5,active
+178,Driver_178,Manhattan,2024-01-28,3.8,active
+179,Driver_179,Staten Island,2025-03-21,4.1,inactive
+180,Driver_180,Manhattan,2023-09-03,4.5,active
+181,Driver_181,Manhattan,2023-06-25,4.5,active
+182,Driver_182,Queens,2023-02-08,4.6,active
+183,Driver_183,Manhattan,2024-04-21,4.5,active
+184,Driver_184,Brooklyn,2024-11-12,4.4,inactive
+185,Driver_185,Brooklyn,2025-01-28,3.5,active
+186,Driver_186,Bronx,2024-06-21,3.8,active
+187,Driver_187,Staten Island,2025-05-16,4.0,active
+188,Driver_188,Manhattan,2025-03-28,3.2,active
+189,Driver_189,Manhattan,2024-02-12,4.1,inactive
+190,Driver_190,Queens,2024-06-08,3.9,active
+191,Driver_191,Brooklyn,2025-04-07,4.6,active
+192,Driver_192,Staten Island,2024-05-20,5.0,active
+193,Driver_193,Bronx,2025-04-04,4.1,active
+194,Driver_194,Brooklyn,2023-02-05,3.6,active
+195,Driver_195,Bronx,2024-11-15,3.1,active
+196,Driver_196,Queens,2023-01-20,4.8,active
+197,Driver_197,Queens,2023-11-17,4.8,inactive
+198,Driver_198,Manhattan,2025-02-14,3.5,inactive
+199,Driver_199,Staten Island,2024-05-26,4.4,active
+200,Driver_200,Bronx,2024-02-04,3.2,inactive
